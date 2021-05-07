@@ -1,0 +1,3156 @@
+finance_pro_frontend_start
+Show labour cost by Businees Unit 1399
+Show labour cost by Businees Unit 1312
+Show labour cost by Businees Unit 1330
+Show labour cost by Head Office
+Show labour cost by Beam Plant 1
+Show labour cost by BU 
+Show labour cost by Blast Furnace Division
+Show Labour Cost by CC
+Show Labour Cost by Cost center number 3082
+Show Labour Cost by Cost center number 3151
+Show Labour Cost by Cost center number 4011
+Show Labour Cost by Cost center number 4012
+Show Labour Cost by Cost center number 4013
+Show Labour Cost by Cost center number 4014
+Show Labour Cost by Cost center number 4015
+Show Labour Cost by Cost center number 4016
+Show Labour Cost by Cost center number 4017
+Show Labour Cost by Cost center number 5011
+Show Labour Cost by Cost center number 5012
+Show Labour Cost by Cost center number 5013
+Show Labour Cost by Cost center number 5014
+Show Labour Cost by Cost center number 5015
+Show Labour Cost by Cost center number 5021
+Show Labour Cost by Cost center number 5023
+Show Labour Cost by Cost center number 5024
+Show Labour Cost by Cost center number 5025
+Show Labour Cost by Cost center number 5026
+Show Labour Cost by Cost center number 5028
+Show Labour Cost by Cost center number 5031
+Show Labour Cost by Cost center number 5032
+Show Labour Cost by Cost center number 5041
+Show Labour Cost by Cost center number 5051
+Show Labour Cost by Cost center number 5061
+Show Labour Cost by Cost center number 6011
+Show Labour Cost by Cost center number 6012
+Show Labour Cost by Cost center number 6013
+Show Labour Cost by Cost center number 6021
+Show Labour Cost by Cost center number 7011
+Show Labour Cost by Cost center number 7062
+Show Labour Cost by Cost center number 7013
+Show Labour Cost by Cost center number 7014
+Show Labour Cost by Cost center number 7051
+Show Labour Cost by Cost center number 7052
+Show Labour Cost by Cost center number 3081
+Show Labour Cost by Cost center number 3083
+Show Labour Cost by Cost center number 3084
+Show Labour Cost by Cost center number 1010
+Show Labour Cost by Cost center number 1011
+Show Labour Cost by Cost center number 1012
+Show Labour Cost by Cost center number 1013
+Show Labour Cost by Cost center number 1021
+Show Labour Cost by Cost center number 1022
+Show Labour Cost by Cost center number 1023
+Show Labour Cost by Cost center number 1024
+Show Labour Cost by Cost center number 2011
+Show Labour Cost by Cost center number 2012
+Show Labour Cost by Cost center number 2013
+Show Labour Cost by Cost center number 2014
+Show Labour Cost by Cost center number 2015
+Show Labour Cost by Cost center number 2016
+Show Labour Cost by Cost center number 3086
+Show Labour Cost by Cost center number 3301
+Show Labour Cost by Cost center number 3309
+Show Labour Cost by Cost center number 3441
+Show Labour Cost by Cost center number 3085
+Show Labour Cost by BP1 Production Dept
+Show Labour Cost by FSC Production Dept
+Show Labour Cost by PSC Production Dept
+Show Labour Cost by SPM Production Dept
+Show Labour Cost by CRM Production Dept
+Show Labour Cost by SMS2 Production Dept
+Show Labour Cost by Head of HRGA
+Show Labour Cost by Talent Management
+Show Labour Cost by HR Administration Center
+Show Labour Cost by General Affairs center
+Show Labour Cost by Property Maintenance center
+Show Labour Cost by Internal Audit center
+Show Labour Cost by Finance and Accounting and Administration Div center
+Show Labour Cost by Workshop Mesin Dept center
+Show Labour Cost by Production Div - Wire Rod Mill 1 center
+Show Labour Cost by Production Dept - Wire Rod Mill 1 center
+Show Labour Cost by DWI Production Dept center
+Show Labour Cost by Finance Div center
+Show Labour Cost by Head of HRD and GA center
+Show Labour Cost by BP1 QA/QC Dept
+Show Labour Cost by BP1 Warehouse Dept
+Show Labour Cost by Local Purchase Department
+Show Labour Cost by IT Helpdesk
+Show Labour Cost by IT ERP
+Show Labour Cost by IT Business Process
+Show Labour Cost by IT System Admin
+Show Labour Cost by IT Development
+Show Labour Cost by BP1 Mechanical Dept
+Show Labour Cost by Blast Furnace Dept
+Show Labour Cost by BP1 Electrical Dept
+Show Labour Cost by BLAST FURNACE DIV OFFICE
+Show productivity per tonnage By BU number
+Show productivity per tonnage By BU 1301
+Show productivity per tonnage By BU 1311
+Show productivity per tonnage By BU 1312
+Show productivity per tonnage By BU 1321
+Show productivity per tonnage By BU 1322
+Show productivity per tonnage By BU 1331
+Show productivity per tonnage By BU 1350
+Show productivity per tonnage By BU 1351
+Show productivity per tonnage By BU 1361
+Show productivity per tonnage By BU 1363
+Show productivity per tonnage By BU Name
+Show productivity per tonnage By Plate Steckel Mill
+Show productivity per tonnage By Steel Melt Shop 1
+Show productivity per tonnage By Beam Plant 1
+Show productivity per tonnage By Forming Service Center
+Show productivity per tonnage By Plate Service Center
+Show productivity per tonnage By Steel Melt Shop 2
+Show productivity per tonnage By Spiral Pipe Mill
+Show productivity per tonnage By Cold Rolling Mill
+Show productivity per tonnage By Wire Rod Mill 1
+Show productivity per tonnage By Divisi Wired Industry
+Show productivity per tonnage By CC number 3071
+Show productivity per tonnage By CC number 3082
+Show productivity per tonnage By CC number
+Show productivity per tonnage By CC number 3151
+Show productivity per tonnage By CC number 3161
+Show productivity per tonnage By CC number 3171
+Show productivity per tonnage By CC number 3181
+Show productivity per tonnage By CC number 3191
+Show productivity per tonnage By CC number 3201
+Show productivity per tonnage By CC number 3231
+Show productivity per tonnage By CC number 3361
+Show productivity per tonnage month-wise for  August and September by each measure
+Show productivity per tonnage month-wise for August and October by each measure
+Show productivity per tonnage month-wise for August and November by each measure
+Show productivity per tonnage month-wise for September and October by each measure
+Show productivity per tonnage month-wise for September and November by each measure
+Show productivity per tonnage month-wise for October and November by each measure
+Show productivity per tonnage Month-wise comparison for 2 months for each measure
+Show Max overtime hours by employee ID/code for December 2019
+Show Max overtime hours by employee ID/code for January 2020
+Show Max overtime hours by employee ID/code for February 2020
+Show Max overtime hours by employee ID/code for March 2020
+Show Max overtime hours by employee ID/code for April 2020
+Show Max overtime hours by employee ID/code for May 2020
+Show Max overtime hours by employee ID/code for June 2020
+Show Max overtime hours by employee ID/code for July 2020
+Show Max overtime hours by employee ID/code for August 2020
+Show Max overtime hours by employee ID/code for September 2020
+Show Max overtime hours by employee ID/code for one specific month
+Show max overtime hours by employee name for December 2019
+Show max overtime hours by employee name for January 2020
+Show max overtime hours by employee name for February 2020
+Show max overtime hours by employee name for March 2020
+Show max overtime hours by employee name for April 2020
+Show max overtime hours by employee name for May 2020
+Show max overtime hours by employee name for June 2020
+Show max overtime hours by employee name for July 2020
+Show max overtime hours by employee name for August 2020
+Show max overtime hours by employee name for one specific month 
+Show Minimum overtime hours by employee ID/code for December 2019
+Show Minimum overtime hours by employee ID/code for January 2020
+Show Minimum overtime hours by employee ID/code for February 2020
+Show Minimum overtime hours by employee ID/code for March 2020
+Show Minimum overtime hours by employee ID/code for April 2020
+Show Minimum overtime hours by employee ID/code for May 2020
+Show Minimum overtime hours by employee ID/code for June 2020
+Show Minimum overtime hours by employee ID/code for July 2020
+Show Minimum overtime hours by employee ID/code for August 2020
+Show Minimum overtime hours by employee ID/code for one specific month
+Show Minimum overtime hours by employee name for December 2019
+Show Minimum overtime hours by employee name for January 2020
+Show Minimum overtime hours by employee name for February 2020
+Show Minimum overtime hours by employee name for March 2020
+Show Minimum overtime hours by employee name for April 2020
+Show Minimum overtime hours by employee name for May 2020
+Show Minimum overtime hours by employee name for June 2020
+Show Minimum overtime hours by employee name for July 2020
+Show Minimum overtime hours by employee name for August 2020
+Show Minimum overtime hours by employee name for one specific month
+Show max overtime hours by CC
+Show max overtime hours by Cost Center Number 3111
+Show max overtime hours by Cost Center Number 3200
+Show max overtime hours by Cost Center Number 4010
+Show max overtime hours by Cost Center Number 5000
+Show max overtime hours by Cost Center Number 5011
+Show max overtime hours by Cost Center Number 5012
+Show max overtime hours by Cost Center Number 5013
+Show max overtime hours by Cost Center Number 5014
+Show max overtime hours by Cost Center Number 5015
+Show max overtime hours by Cost Center Number 5021
+Show max overtime hours by Cost Center Number 5023
+Show max overtime hours by Cost Center Number 5025
+Show max overtime hours by Cost Center Number 5026
+Show max overtime hours by Cost Center Number 5027
+Show max overtime hours by Cost Center Number 5028
+Show max overtime hours by Cost Center Number 5031
+Show max overtime hours by Cost Center Number 5032
+Show max overtime hours by Cost Center Number 5041
+Show max overtime hours by Cost Center Number 5051
+Show max overtime hours by Cost Center Number 6011
+Show max overtime hours by Cost Center Number 6013
+Show max overtime hours by Cost Center Number 8010
+Show max overtime hours by Cost Center Number 3083
+Show max overtime hours by Cost Center Number 3084
+Show max overtime hours by Cost Center Number 2011
+Show max overtime hours by Cost Center Number 2012
+Show max overtime hours by Cost Center Number 2013
+Show max overtime hours by Cost Center Number 2014
+Show max overtime hours by Cost Center Number 2015
+Show max overtime hours by Cost Center Number 2016
+Show max overtime hours by Cost Center Number 3309
+Show max overtime hours by Cost Center Name Workshop Mesin Dept
+Show max overtime hours by Cost Center Name GA - General Affair Operation Dept
+Show max overtime hours by Cost Center Name Workshop Mesin Dept
+Show max overtime hours by Cost Center Name PSM Production Dept
+Show max overtime hours by Cost Center Name FSC Production Dept
+Show max overtime hours by Cost Center Name PSC Production Dept
+Show max overtime hours by Cost Center Name SPM Production Dept
+Show max overtime hours by Cost Center Name CRM Production Dept
+Show max overtime hours by Cost Center Name SMS2 Production Dept
+Show max overtime hours by Cost Center Name Head of HRGA
+Show max overtime hours by Cost Center Name Talent Management
+Show max overtime hours by Cost Center Name General Affairs
+Show max overtime hours by Cost Center Name Property Maintenance
+Show max overtime hours by Cost Center Name GA Customer Care
+Show max overtime hours by Cost Center Name Internal Audit
+Show max overtime hours by Cost Center Name Finance and Accounting and Admaxistration Div
+Show max overtime hours by Cost Center Name Workshop Mesin Dept
+Show max overtime hours by Cost Center Name Production Div - Wire Rod Mill 1
+Show max overtime hours by Cost Center Name Production Dept - Wire Rod Mill 1
+Show max overtime hours by Cost Center Name Finance Division
+Show max overtime hours by Cost Center Name Head of HRD and GA
+Show max overtime hours by Cost Center Name HR Human Development Dept
+Show max overtime hours by Cost Center Name BP1 QA/QC Dept
+Show max overtime hours by Cost Center Name BP1 Warehouse Dept
+Show max overtime hours by Cost Center Name Local Purchase Department
+Show max overtime hours by Cost Center Name IT Helpdesk
+Show max overtime hours by Cost Center Name IT ERP
+Show max overtime hours by Cost Center Name IT Business Process
+Show max overtime hours by Cost Center Name IT System Admax
+Show max overtime hours by Cost Center Name IT Development
+Show max overtime hours by Cost Center Name BLAST FURNACE DIV OFFICE
+Show min Overtime hours by CC
+Show min overtime hours by Cost Center Number 3111
+Show min overtime hours by Cost Center Number 3200
+Show min overtime hours by Cost Center Number 4010
+Show min overtime hours by Cost Center Number 5000
+Show min overtime hours by Cost Center Number 5011
+Show min overtime hours by Cost Center Number 5012
+Show min overtime hours by Cost Center Number 5013
+Show min overtime hours by Cost Center Number 5014
+Show min overtime hours by Cost Center Number 5015
+Show min overtime hours by Cost Center Number 5021
+Show min overtime hours by Cost Center Number 5023
+Show min overtime hours by Cost Center Number 5025
+Show min overtime hours by Cost Center Number 5026
+Show min overtime hours by Cost Center Number 5027
+Show min overtime hours by Cost Center Number 5028
+Show min overtime hours by Cost Center Number 5031
+Show min overtime hours by Cost Center Number 5032
+Show min overtime hours by Cost Center Number 5041
+Show min overtime hours by Cost Center Number 5051
+Show min overtime hours by Cost Center Number 6011
+Show min overtime hours by Cost Center Number 6013
+Show min overtime hours by Cost Center Number 8010
+Show min overtime hours by Cost Center Number 3083
+Show min overtime hours by Cost Center Number 3084
+Show min overtime hours by Cost Center Number 2011
+Show min overtime hours by Cost Center Number 2012
+Show min overtime hours by Cost Center Number 2013
+Show min overtime hours by Cost Center Number 2014
+Show min overtime hours by Cost Center Number 2015
+Show min overtime hours by Cost Center Number 2016
+Show min overtime hours by Cost Center Number 3309
+Show min overtime hours by Cost Center Name Workshop Mesin Dept
+Show min overtime hours by Cost Center Name GA - General Affair Operation Dept
+Show min overtime hours by Cost Center Name Workshop Mesin Dept
+Show min overtime hours by Cost Center Name PSM Production Dept
+Show min overtime hours by Cost Center Name FSC Production Dept
+Show min overtime hours by Cost Center Name PSC Production Dept
+Show min overtime hours by Cost Center Name SPM Production Dept
+Show min overtime hours by Cost Center Name CRM Production Dept
+Show min overtime hours by Cost Center Name SMS2 Production Dept
+Show min overtime hours by Cost Center Name Head of HRGA
+Show min overtime hours by Cost Center Name Talent Management
+Show min overtime hours by Cost Center Name General Affairs
+Show min overtime hours by Cost Center Name Property Maintenance
+Show min overtime hours by Cost Center Name GA Customer Care
+Show min overtime hours by Cost Center Name Internal Audit
+Show min overtime hours by Cost Center Name Finance and Accounting and Administration Div
+Show min overtime hours by Cost Center Name Workshop Mesin Dept
+Show min overtime hours by Cost Center Name Production Div - Wire Rod Mill 1
+Show min overtime hours by Cost Center Name Production Dept - Wire Rod Mill 1
+Show min overtime hours by Cost Center Name Finance Division
+Show min overtime hours by Cost Center Name Head of HRD and GA
+Show min overtime hours by Cost Center Name HR Human Development Dept
+Show min overtime hours by Cost Center Name BP1 QA/QC Dept
+Show min overtime hours by Cost Center Name BP1 Warehouse Dept
+Show min overtime hours by Cost Center Name Local Purchase Department
+Show min overtime hours by Cost Center Name IT Helpdesk
+Show min overtime hours by Cost Center Name IT ERP
+Show min overtime hours by Cost Center Name IT Business Process
+Show min overtime hours by Cost Center Name IT System Admin
+Show min overtime hours by Cost Center Name IT Development
+Show min overtime hours by Cost Center Name Blast Furnace Div Office
+Show amount paid due to overtime by CC
+Show amount paid due to overtime by CC number 3111
+Show amount paid due to overtime by CC number 3200
+Show amount paid due to overtime by CC number 4010
+Show amount paid due to overtime by CC number 5000
+Show amount paid due to overtime by CC number  5011
+Show amount paid due to overtime by CC number  5012
+Show amount paid due to overtime by CC number  5013
+Show amount paid due to overtime by CC number  5014
+Show amount paid due to overtime by CC number  5015
+Show amount paid due to overtime by CC number 5021
+Show amount paid due to overtime by CC number 5023
+Show amount paid due to overtime by CC number 5025
+Show amount paid due to overtime by CC number 5026
+Show amount paid due to overtime by CC number 5027
+Show amount paid due to overtime by CC number 5028
+Show amount paid due to overtime by CC number 5031
+Show amount paid due to overtime by CC number 5032
+Show amount paid due to overtime by CC number 5041
+Show amount paid due to overtime by CC number 5051
+Show amount paid due to overtime by CC number 6011
+Show amount paid due to overtime by CC number 6013
+Show amount paid due to overtime by CC number 8010
+Show amount paid due to overtime by CC number 3083
+Show amount paid due to overtime by CC number 3084
+Show amount paid due to overtime by CC number 2011
+Show amount paid due to overtime by CC number 2012
+Show amount paid due to overtime by CC number 2013
+Show amount paid due to overtime by CC number 2014
+Show amount paid due to overtime by CC number 2015
+Show amount paid due to overtime by CC number 2016
+Show amount paid due to overtime by CC number 3309
+Show amount paid due to overtime by Cost Center Name Workshop Mesin Dept
+Show amount paid due to overtime by Cost Center Name GA - General Affair Operation Dept
+Show amount paid due to overtime by Cost Center Name Workshop Mesin Dept
+Show amount paid due to overtime by Cost Center Name PSM Production Dept
+Show amount paid due to overtime by Cost Center Name FSC Production Dept
+Show amount paid due to overtime by Cost Center Name PSC Production Dept
+Show amount paid due to overtime by Cost Center Name SPM Production Dept
+Show amount paid due to overtime by Cost Center Name CRM Production Dept
+Show amount paid due to overtime by Cost Center Name SMS2 Production Dept
+Show amount paid due to overtime by Cost Center Name Head of HRGA
+Show amount paid due to overtime by Cost Center Name Talent Management
+Show amount paid due to overtime by Cost Center Name General Affairs
+Show amount paid due to overtime by Cost Center Name Property Maintenance
+Show amount paid due to overtime by Cost Center Name GA Customer Care
+Show amount paid due to overtime by Cost Center Name Internal Audit
+Show amount paid due to overtime by Cost Center Name Finance and Accounting and Administration Div
+Show amount paid due to overtime by Cost Center Name Workshop Mesin Dept
+Show amount paid due to overtime by Cost Center Name Production Div - Wire Rod Mill 1
+Show amount paid due to overtime by Cost Center Name Production Dept - Wire Rod Mill 1
+Show amount paid due to overtime by Cost Center Name Finance Division
+Show amount paid due to overtime by Cost Center Name Head of HRD and GA
+Show amount paid due to overtime by Cost Center Name HR Human Development Dept
+Show amount paid due to overtime by Cost Center Name BP1 QA/QC Dept
+Show amount paid due to overtime by Cost Center Name BP1 Warehouse Dept
+Show amount paid due to overtime by Cost Center Name Local Purchase Department
+Show amount paid due to overtime by Cost Center Name IT Helpdesk
+Show amount paid due to overtime by Cost Center Name IT ERP
+Show amount paid due to overtime by Cost Center Name IT Business Process
+Show amount paid due to overtime by Cost Center Name IT System Admin
+Show amount paid due to overtime by Cost Center Name IT Development
+Show amount paid due to overtime by Cost Center Name Blast Furnace Div Office
+Show amount paid to a specific employee for overtime work in December 2019
+Show amount paid to a specific employee for overtime work in January 2020
+Show amount paid to a specific employee for overtime work in February 2020
+Show amount paid to a specific employee for overtime work in March 2020
+Show amount paid to a specific employee for overtime work in April 2020
+Show amount paid to a specific employee for overtime work in May 2020
+Show amount paid to a specific employee for overtime work in June 2020
+Show amount paid to a specific employee for overtime work in July 2020
+Show amount paid to a specific employee for overtime work in August 2020
+Show amount paid to a specific employee for overtime work in September 2020
+Show amount paid to a specific employee for overtime work in a specific month
+What is the turnover rate for January 2020
+What is the turnover rate for February 2020
+What is the turnover rate for March 2020
+What is the turnover rate for April 2020
+What is the turnover rate for May 2020
+What is the turnover rate for June 2020
+What is the turnover rate for July 2020
+What is the turnover rate for August 2020
+What is the turnover rate for September 2020
+What is the turnover rate for a specific month?
+What is the average turnover rate in last one month?
+What is the average turnover rate in last two months?
+What is the average turnover rate in last three months?
+What is the average turnover rate in last four months?
+What is the average turnover rate in last five months?
+What is the average turnover rate in last six months?
+What is the average turnover rate in last seven months?
+What is the average turnover rate in last eight months?
+What is the average turnover rate in last nine months?
+What is the average turnover rate in the last ‘n’ months?
+Turnover rate during January to March 2020
+Turnover rate during April to June 2020
+Turnover rate during July to September 2020
+Turnover rate during January to July 2020
+Turnover rate during January to February 2020
+Turnover rate during January to April 2020
+Turnover rate during January to May  2020
+Turnover rate during January to June  2020
+Turnover rate during January to August  2020
+Turnover rate during January to September 2020
+Turnover rate during Feburary to March 2020
+Turnover rate during Feburary to April 2020
+Turnover rate during Feburary to May 2020
+Turnover rate during Feburary to June 2020
+Turnover rate during Feburary to July  2020
+Turnover rate during Feburary to August 2020
+Turnover rate during Feburary to September 2020
+Turnover rate during March to April 2020
+Turnover rate during March to May 2020
+Turnover rate during March to June 2020
+Turnover rate during March to July 2020
+Turnover rate during March to August 2020
+Turnover rate during March to September 2020
+Turnover rate during April to June 2020
+Turnover rate during April to May 2020
+Turnover rate during April to July 2020
+Turnover rate during April to August 2020
+Turnover rate during April to September 2020
+Turnover rate during May to June 2020
+Turnover rate during May to July 2020
+Turnover rate during May to August 2020
+Turnover rate during May to September 2020
+Turnover rate during June to July 2020
+Turnover rate during June to August 2020
+Turnover rate during June to September 2020
+Turnover rate during July to August 2020
+Turnover rate during July to September 2020
+Turnover rate during August to September 2020
+Turnover rate by months over a specified set of months 
+Turnover rate by BU 1399 
+Turnover rate by BU 1312
+Turnover rate by BU 1330
+Turnover rate by BU number
+Turnover rate by Head Office
+Turnover rate by Beam Plant 1
+Turnover rate by Blast Furnace Division
+Turnover rate by BU name
+Turnover rate by CC number 
+Turnover rate by CC number 3082
+Turnover rate by CC number  5011
+Turnover rate by CC number  5012
+Turnover rate by CC number  5014
+Turnover rate by CC number 5020
+Turnover rate by CC number 5021
+Turnover rate by CC number 5023
+Turnover rate by CC number 5024
+Turnover rate by CC number 5061
+Turnover rate by CC number 8010
+Turnover rate by CC number 3083
+Turnover rate by CC number 3084
+Turnover rate by CC number 3086
+Turnover rate by CC number 3300
+Turnover rate by CC number 3301
+Turnover rate by CC number 3309
+Turnover rate by CC number 3085
+Turnover rate by Cost Center Name 
+Turnover rate by Cost Center Name BP1 Production Dept
+Turnover rate by Cost Center Name FSC Production Dept
+Turnover rate by Cost Center Name PSC Production Dept
+Turnover rate by Cost Center Name CRM Production Dept
+Turnover rate by Cost Center Name Finance & Accounting Division
+Turnover rate by Cost Center Name Head of HRGA
+Turnover rate by Cost Center Name Talent Management
+Turnover rate by Cost Center Name HR Administration
+Turnover rate by Cost Center Name DWI Production Dept
+Turnover rate by Cost Center Name HR Human Development Dept
+Turnover rate by Cost Center Name BP1 QA/QC Dept
+Turnover rate by Cost Center Name BP1 Warehouse Dept
+Turnover rate by Cost Center Name BP1 Mechanical Dept
+Turnover rate by Cost Center Name Blast Furnace Division
+Turnover rate by Cost Center Name Blast Furnace Dept
+Turnover rate by Cost Center Name Blast Furnace Div Office
+Turnover rate by Cost Center Name BP1 Electrical Dept
+Number of employees active in January 2020
+Number of employees active in Feburary 2020
+Number of employees active in March 2020
+Number of employees active in April 2020
+Number of employees active in May 2020
+Number of employees active in June 2020
+Number of employees active in July 2020
+Number of employees active in August 2020
+Number of employees active in September 2020
+Number of employees active during January to March 2020
+Number of employees active during April to June 2020
+Number of employees active during July to September 2020
+Number of employees active during January to July 2020
+Number of employees active during January to February 2020
+Number of employees active during January to April 2020
+Number of employees active during January to May  2020
+Number of employees active during January to June  2020
+Number of employees active during January to August  2020
+Number of employees active during January to September 2020
+Number of employees active during Feburary to March 2020
+Number of employees active during Feburary to April 2020
+Number of employees active during Feburary to May 2020
+Number of employees active during Feburary to June 2020
+Number of employees active during Feburary to July  2020
+Number of employees active during Feburary to August 2020
+Number of employees active during Feburary to September 2020
+Number of employees active during March to April 2020
+Number of employees active during March to May 2020
+Number of employees active during March to June 2020
+Number of employees active during March to July 2020
+Number of employees active during March to August 2020
+Number of employees active during March to September 2020
+Number of employees active during April to June 2020
+Number of employees active during April to May 2020
+Number of employees active during April to July 2020
+Number of employees active during April to August 2020
+Number of employees active during April to September 2020
+Number of employees active during May to June 2020
+Number of employees active during May to July 2020
+Number of employees active during May to August 2020
+Number of employees active during May to September 2020
+Number of employees active during June to July 2020
+Number of employees active during June to August 2020
+Number of employees active during June to September 2020
+Number of employees active during July to August 2020
+Number of employees active during July to September 2020
+Number of employees active during August to September 2020
+Number of employees active in a month/period
+Show termination notes/reason by CC
+Show termination notes/reason by CC number 3082
+Show termination notes/reason by CC number  5011
+Show termination notes/reason by CC number  5012
+Show termination notes/reason by CC number  5014
+Show termination notes/reason by CC number 5020
+Show termination notes/reason by CC number 5021
+Show termination notes/reason by CC number 5023
+Show termination notes/reason by CC number 5024
+Show termination notes/reason by CC number 5061
+Show termination notes/reason by CC number 8010
+Show termination notes/reason by CC number 3083
+Show termination notes/reason by CC number 3084
+Show termination notes/reason by CC number 3086
+Show termination notes/reason by CC number 3300
+Show termination notes/reason by CC number 3301
+Show termination notes/reason by CC number 3309
+Show termination notes/reason by CC number 3085
+Show termination notes/reason by Cost Center Name BP1 Production Dept
+Show termination notes/reason by Cost Center Name FSC Production Dept
+Show termination notes/reason by Cost Center Name PSC Production Dept
+Show termination notes/reason by Cost Center Name CRM Production Dept
+Show termination notes/reason by Cost Center Name Finance & Accounting Division
+Show termination notes/reason by Cost Center Name Head of HRGA
+Show termination notes/reason by Cost Center Name Talent Management
+Show termination notes/reason by Cost Center Name HR Administration
+Show termination notes/reason by Cost Center Name DWI Production Dept
+Show termination notes/reason by Cost Center Name HR Human Development Dept
+Show termination notes/reason by Cost Center Name BP1 QA/QC Dept
+Show termination notes/reason by Cost Center Name BP1 Warehouse Dept
+Show termination notes/reason by Cost Center Name BP1 Mechanical Dept
+Show termination notes/reason by Cost Center Name Blast Furnace Division
+Show termination notes/reason by Cost Center Name Blast Furnace Dept
+Show termination notes/reason by Cost Center Name Blast Furnace Div Office
+Show termination notes/reason by Cost Center Name BP1 Electrical Dept
+show revenue by year
+which month in year 2019 recorded the lowest revenue
+which month in year 2020 recorded the lowest revenue
+which month in year 2019 recorded the highest revenue
+which month in year 2020 recorded the highest revenue
+show gross margin by year
+gross margin was lowest in which month of 2019
+gross margin was lowest in which month of 2020
+gross margin was highest in which month of 2019
+gross margin was lowest in which month of 2020
+show cogs by year
+show cost of goods by year
+cogs was lowest for which month of 2019
+cost of goods was lowest for which month of 2019
+cogs was highest for which month of 2019
+cost of goods was highest for which month of 2019
+cogs was lowest for which month of 2020
+cost of goods was lowest for which month of 2020
+cogs was highest for which month of 2020
+cost of goods was highest for which month of 2020
+which year had higher profit after tax in terms of value
+which year had lower profit after tax in terms of value
+which year had higher operating profit
+which year had lower operational profit
+which month in the year 2019 saw the highest profit after tax in terms of value
+which month in the year 2019 saw the lowest profit after tax in terms of value
+which month in the year 2020 saw the highest profit after tax in terms of value
+which month in the year 2020 saw the lowest profit after tax in terms of value
+which month in the year 2019 saw the highest operational profit in terms of value
+which month in the year 2019 saw the lowest operational profit in terms of value
+which month in the year 2020 saw the highest operational profit in terms of value
+which month in the year 2020 saw the lowest operational profit in terms of value
+show EBITDA by year
+which month of 2019 had the highest EBITDA
+which month of 2019 had the lowest EBITDA
+which month of 2020 had the highest EBITDA
+which month of 2020 had the lowest EBITDA
+show gross margin percentage by year
+gross margin in percentage terms was lowest for which month of 2019
+gross margin in percentage terms was highest for which month of 2019
+gross margin in percentage terms was lowest for which month of 2020
+gross margin in percentage terms was highest for which month of 2020
+running difference of profit From operation by year
+running difference of profit From operation was lowest in which month of 2019
+running difference of profit From operation was highest in which month of 2019
+running difference of profit From operation was lowest in which month of 2020
+running difference of profit From operation was highest in which month of 2020
+show running difference before profit by year
+running difference before profit was lowest for which month of 2019
+running difference before profit was highest for which month of 2019
+running difference before profit was lowest for which month of 2020
+running difference before profit was highest for which month of 2020
+show revenue by month
+show gross margin by month
+show cogs by month
+show cost of goods by month
+show operational profit vs profit after tax
+show EBITDA by month
+show gross margin percentage by month
+show running difference of profit from operation by month
+show running difference before profit by month
+Show labour cost per payroll type for each CC
+Show labour cost per payroll type for CC number 3082
+Show labour cost per payroll type for CC number 3151
+Show labour cost per payroll type for CC number 4011
+Show labour cost per payroll type for CC number 4012
+Show labour cost per payroll type for CC number 4013
+Show labour cost per payroll type for CC number 4014
+Show labour cost per payroll type for CC number 4015
+Show labour cost per payroll type for CC number 4016
+Show labour cost per payroll type for CC number 4017
+Show labour cost per payroll type for CC number  5011
+Show labour cost per payroll type for CC number  5012
+Show labour cost per payroll type for CC number  5013
+Show labour cost per payroll type for CC number  5014
+Show labour cost per payroll type for CC number  5015
+Show labour cost per payroll type for CC number 5021
+Show labour cost per payroll type for CC number 5023
+Show labour cost per payroll type for CC number 5024
+Show labour cost per payroll type for CC number 5025
+Show labour cost per payroll type for CC number 5026
+Show labour cost per payroll type for CC number 5028
+Show labour cost per payroll type for CC number 5031
+Show labour cost per payroll type for CC number 5032
+Show labour cost per payroll type for CC number 5041
+Show labour cost per payroll type for CC number 5051
+Show labour cost per payroll type for CC number 5061
+Show labour cost per payroll type for CC number 6011
+Show labour cost per payroll type for CC number 6012
+Show labour cost per payroll type for CC number 6013
+Show labour cost per payroll type for CC number 6021
+Show labour cost per payroll type for CC number 7011
+Show labour cost per payroll type for CC number 7062
+Show labour cost per payroll type for CC number 7013
+Show labour cost per payroll type for CC number 7014
+Show labour cost per payroll type for CC number 7051
+Show labour cost per payroll type for CC number 7052
+Show labour cost per payroll type for CC number 3081
+Show labour cost per payroll type for CC number 3083
+Show labour cost per payroll type for CC number 3084
+Show labour cost per payroll type for CC number 1010
+Show labour cost per payroll type for CC number 1011
+Show labour cost per payroll type for CC number 1012
+Show labour cost per payroll type for CC number 1013
+Show labour cost per payroll type for CC number 1021
+Show labour cost per payroll type for CC number 1022
+Show labour cost per payroll type for CC number 1023
+Show labour cost per payroll type for CC number 1024
+Show labour cost per payroll type for CC number 2011
+Show labour cost per payroll type for CC number 2012
+Show labour cost per payroll type for CC number 2013
+Show labour cost per payroll type for CC number 2014
+Show labour cost per payroll type for CC number 2015
+Show labour cost per payroll type for CC number 2016
+Show labour cost per payroll type for CC number 3086
+Show labour cost per payroll type for CC number 3301
+Show labour cost per payroll type for CC number 3309
+Show labour cost per payroll type for CC number 3441
+Show labour cost per payroll type for CC number 3085
+Show labour cost per employee bank type for each CC
+Show labour cost per employee bank type  for CC number 3082
+Show labour cost per employee bank type  for CC number 3151
+Show labour cost per employee bank type  for CC number 4011
+Show labour cost per employee bank type  for CC number 4012
+Show labour cost per employee bank type  for CC number 4013
+Show labour cost per employee bank type  for CC number 4014
+Show labour cost per employee bank type  for CC number 4015
+Show labour cost per employee bank type  for CC number 4016
+Show labour cost per employee bank type  for CC number 4017
+Show labour cost per employee bank type  for CC number  5011
+Show labour cost per employee bank type  for CC number  5012
+Show labour cost per employee bank type  for CC number  5013
+Show labour cost per employee bank type  for CC number  5014
+Show labour cost per employee bank type  for CC number  5015
+Show labour cost per employee bank type  for CC number 5021
+Show labour cost per employee bank type  for CC number 5023
+Show labour cost per employee bank type  for CC number 5024
+Show labour cost per employee bank type  for CC number 5025
+Show labour cost per employee bank type  for CC number 5026
+Show labour cost per employee bank type  for CC number 5028
+Show labour cost per employee bank type  for CC number 5031
+Show labour cost per employee bank type  for CC number 5032
+Show labour cost per employee bank type  for CC number 5041
+Show labour cost per employee bank type  for CC number 5051
+Show labour cost per employee bank type  for CC number 5061
+Show labour cost per employee bank type  for CC number 6011
+Show labour cost per employee bank type  for CC number 6012
+Show labour cost per employee bank type  for CC number 6013
+Show labour cost per employee bank type  for CC number 6021
+Show labour cost per employee bank type  for CC number 7011
+Show labour cost per employee bank type  for CC number 7062
+Show labour cost per employee bank type  for CC number 7013
+Show labour cost per employee bank type  for CC number 7014
+Show labour cost per employee bank type  for CC number 7051
+Show labour cost per employee bank type  for CC number 7052
+Show labour cost per employee bank type  for CC number 3081
+Show labour cost per employee bank type  for CC number 3083
+Show labour cost per employee bank type  for CC number 3084
+Show labour cost per employee bank type  for CC number 1010
+Show labour cost per employee bank type  for CC number 1011
+Show labour cost per employee bank type  for CC number 1012
+Show labour cost per employee bank type  for CC number 1013
+Show labour cost per employee bank type  for CC number 1021
+Show labour cost per employee bank type  for CC number 1022
+Show labour cost per employee bank type  for CC number 1023
+Show labour cost per employee bank type  for CC number 1024
+Show labour cost per employee bank type  for CC number 2011
+Show labour cost per employee bank type  for CC number 2012
+Show labour cost per employee bank type  for CC number 2013
+Show labour cost per employee bank type  for CC number 2014
+Show labour cost per employee bank type  for CC number 2015
+Show labour cost per employee bank type  for CC number 2016
+Show labour cost per employee bank type  for CC number 3086
+Show labour cost per employee bank type  for CC number 3301
+Show labour cost per employee bank type  for CC number 3309
+Show labour cost per employee bank type  for CC number 3441
+Show labour cost per employee bank type  for CC number 3085
+Show labour cost per Journal ID for each CC
+Show labour cost per Journal ID  for CC number 3082
+Show labour cost per Journal ID  for CC number 3151
+Show labour cost per Journal ID  for CC number 4011
+Show labour cost per Journal ID  for CC number 4012
+Show labour cost per Journal ID  for CC number 4013
+Show labour cost per Journal ID  for CC number 4014
+Show labour cost per Journal ID  for CC number 4015
+Show labour cost per Journal ID  for CC number 4016
+Show labour cost per Journal ID  for CC number 4017
+Show labour cost per Journal ID  for CC number  5011
+Show labour cost per Journal ID  for CC number  5012
+Show labour cost per Journal ID  for CC number  5013
+Show labour cost per Journal ID  for CC number  5014
+Show labour cost per Journal ID  for CC number  5015
+Show labour cost per Journal ID  for CC number 5021
+Show labour cost per Journal ID  for CC number 5023
+Show labour cost per Journal ID  for CC number 5024
+Show labour cost per Journal ID  for CC number 5025
+Show labour cost per Journal ID  for CC number 5026
+Show labour cost per Journal ID  for CC number 5028
+Show labour cost per Journal ID  for CC number 5031
+Show labour cost per Journal ID  for CC number 5032
+Show labour cost per Journal ID  for CC number 5041
+Show labour cost per Journal ID  for CC number 5051
+Show labour cost per Journal ID  for CC number 5061
+Show labour cost per Journal ID  for CC number 6011
+Show labour cost per Journal ID  for CC number 6012
+Show labour cost per Journal ID  for CC number 6013
+Show labour cost per Journal ID  for CC number 6021
+Show labour cost per Journal ID  for CC number 7011
+Show labour cost per Journal ID  for CC number 7062
+Show labour cost per Journal ID  for CC number 7013
+Show labour cost per Journal ID  for CC number 7014
+Show labour cost per Journal ID  for CC number 7051
+Show labour cost per Journal ID  for CC number 7052
+Show labour cost per Journal ID  for CC number 3081
+Show labour cost per Journal ID  for CC number 3083
+Show labour cost per Journal ID  for CC number 3084
+Show labour cost per Journal ID  for CC number 1010
+Show labour cost per Journal ID  for CC number 1011
+Show labour cost per Journal ID  for CC number 1012
+Show labour cost per Journal ID  for CC number 1013
+Show labour cost per Journal ID  for CC number 1021
+Show labour cost per Journal ID  for CC number 1022
+Show labour cost per Journal ID  for CC number 1023
+Show labour cost per Journal ID  for CC number 1024
+Show labour cost per Journal ID  for CC number 2011
+Show labour cost per Journal ID  for CC number 2012
+Show labour cost per Journal ID  for CC number 2013
+Show labour cost per Journal ID  for CC number 2014
+Show labour cost per Journal ID  for CC number 2015
+Show labour cost per Journal ID  for CC number 2016
+Show labour cost per Journal ID  for CC number 3086
+Show labour cost per Journal ID  for CC number 3301
+Show labour cost per Journal ID  for CC number 3309
+Show labour cost per Journal ID  for CC number 3441
+Show labour cost per Journal ID  for CC number 3085
+Show labour cost by payroll type
+Show labour cost by employee bank/bank/recversion
+Show labour cost by Journal ID
+Show productivity per tonnage By ITEM ID
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for January 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for Februray 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for March 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for April 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for May 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for June 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for July 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for August 2020
+Show Overtime hours for ASMIANTO WARSA LAZUARDI M.KOM. for September 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for January 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for Februray 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for March 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for April 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for May 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for June 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for July 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for August 2020
+Show Overtime hours for CATUR SIMANJUNTAK. for September 2020
+Show Overtime hours for UMI WAHYUNI. for January 2020
+Show Overtime hours for UMI WAHYUNI. for Februray 2020
+Show Overtime hours for UMI WAHYUNI. for March 2020
+Show Overtime hours for UMI WAHYUNI. for April 2020
+Show Overtime hours for UMI WAHYUNI. for May 2020
+Show Overtime hours for UMI WAHYUNI. for June 2020
+Show Overtime hours for UMI WAHYUNI. for July 2020
+Show Overtime hours for UMI WAHYUNI. for August 2020
+Show Overtime hours for UMI WAHYUNI. for September 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for January 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for Februray 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for March 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for April 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for May 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for June 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for July 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for August 2020
+Show Overtime hours for HAMIMA DALIMA LESTARI S.PD for September 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for January 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for Februray 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for March 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for April 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for May 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for June 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for July 2020
+Show Overtime hours for PUSPA SYAHRINI ANDRIANI for August 2020
+Show Overtime hours for  PUSPA SYAHRINI ANDRIANI for September 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for January 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for Februray 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for March 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for April 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for May 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for June 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for July 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for August 2020
+Show Overtime hours for PATRICIA RAHMAWATI M.FARM for September 2020
+Show Overtime hours for INTAN USADA for January 2020
+Show Overtime hours for INTAN USADA for Februray 2020
+Show Overtime hours for INTAN USADA for March 2020
+Show Overtime hours for INTAN USADA for April 2020
+Show Overtime hours for INTAN USADA for May 2020
+Show Overtime hours for INTAN USADA for June 2020
+Show Overtime hours for INTAN USADA for July 2020
+Show Overtime hours for INTAN USADA for August 2020
+Show Overtime hours for INTAN USADA for September 2020
+Show Overtime hours for GALAK JANUAR for January 2020
+Show Overtime hours for GALAK JANUAR for Februray 2020
+Show Overtime hours for GALAK JANUAR for March 2020
+Show Overtime hours for GALAK JANUAR for April 2020
+Show Overtime hours for GALAK JANUAR for May 2020
+Show Overtime hours for GALAK JANUAR for June 2020
+Show Overtime hours for GALAK JANUAR for July 2020
+Show Overtime hours for GALAK JANUAR for August 2020
+Show Overtime hours for GALAK JANUAR for September 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for January 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for Februray 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for March 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for April 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for May 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for June 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for July 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for August 2020
+Show Overtime hours for WINDA QORI LAKSMIWATI S.H. for September 2020
+Show Overtime hours for PARDI JANUAR S.FARM for January 2020
+Show Overtime hours for PARDI JANUAR S.FARM for Februray 2020
+Show Overtime hours for PARDI JANUAR S.FARM for March 2020
+Show Overtime hours for PARDI JANUAR S.FARM for April 2020
+Show Overtime hours for PARDI JANUAR S.FARM for May 2020
+Show Overtime hours for PARDI JANUAR S.FARM for June 2020
+Show Overtime hours for PARDI JANUAR S.FARM for July 2020
+Show Overtime hours for PARDI JANUAR S.FARM for August 2020
+Show Overtime hours for PARDI JANUAR S.FARM for September 2020
+Show Overtime hours for ANOM FIRGANTORO for January 2020
+Show Overtime hours for ANOM FIRGANTORO for Februray 2020
+Show Overtime hours for ANOM FIRGANTORO for March 2020
+Show Overtime hours for ANOM FIRGANTORO for April 2020
+Show Overtime hours for ANOM FIRGANTORO for May 2020
+Show Overtime hours for ANOM FIRGANTORO for June 2020
+Show Overtime hours for ANOM FIRGANTORO for July 2020
+Show Overtime hours for ANOM FIRGANTORO for August 2020
+Show Overtime hours for ANOM FIRGANTORO for September 2020
+Show Overtime hours for JOKO MARYADI for January 2020
+Show Overtime hours for JOKO MARYADI for Februray 2020
+Show Overtime hours for JOKO MARYADI for March 2020
+Show Overtime hours for JOKO MARYADI for April 2020
+Show Overtime hours for JOKO MARYADI for May 2020
+Show Overtime hours for JOKO MARYADI for June 2020
+Show Overtime hours for JOKO MARYADI for July 2020
+Show Overtime hours for JOKO MARYADI for August 2020
+Show Overtime hours for JOKO MARYADI for September 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for January 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for Februray 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for March 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for April 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for May 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for June 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for July 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for August 2020
+Show Overtime hours for RATNA RIYANTI M.TI. for September 2020
+Show Overtime hours for DARIATI HAKIM for January 2020
+Show Overtime hours for DARIATI HAKIM for Februray 2020
+Show Overtime hours for DARIATI HAKIM for March 2020
+Show Overtime hours for DARIATI HAKIM for April 2020
+Show Overtime hours for DARIATI HAKIM for May 2020
+Show Overtime hours for DARIATI HAKIM for June 2020
+Show Overtime hours for DARIATI HAKIM for July 2020
+Show Overtime hours for DARIATI HAKIM for August 2020
+Show Overtime hours for DARIATI HAKIM for September 2020
+Show Overtime hours for USYI VANESA AGUSTINA for January 2020
+Show Overtime hours for USYI VANESA AGUSTINA for Februray 2020
+Show Overtime hours for USYI VANESA AGUSTINA for March 2020
+Show Overtime hours for USYI VANESA AGUSTINA for April 2020
+Show Overtime hours for USYI VANESA AGUSTINA for May 2020
+Show Overtime hours for USYI VANESA AGUSTINA for June 2020
+Show Overtime hours for USYI VANESA AGUSTINA for July 2020
+Show Overtime hours for USYI VANESA AGUSTINA for August 2020
+Show Overtime hours for USYI VANESA AGUSTINA for September 2020
+Show Overtime hours for KEZIA PERMATA for January 2020
+Show Overtime hours for KEZIA PERMATA for Februray 2020
+Show Overtime hours for KEZIA PERMATA for March 2020
+Show Overtime hours for KEZIA PERMATA for April 2020
+Show Overtime hours for KEZIA PERMATA for May 2020
+Show Overtime hours for KEZIA PERMATA for June 2020
+Show Overtime hours for KEZIA PERMATA for July 2020
+Show Overtime hours for KEZIA PERMATA for August 2020
+Show Overtime hours for KEZIA PERMATA for September 2020
+Show Overtime hours for SAKURA PADMASARI for January 2020
+Show Overtime hours for SAKURA PADMASARI for Februray 2020
+Show Overtime hours for SAKURA PADMASARI for March 2020
+Show Overtime hours for SAKURA PADMASARI for April 2020
+Show Overtime hours for SAKURA PADMASARI for May 2020
+Show Overtime hours for SAKURA PADMASARI for June 2020
+Show Overtime hours for SAKURA PADMASARI for July 2020
+Show Overtime hours for SAKURA PADMASARI for August 2020
+Show Overtime hours for SAKURA PADMASARI for September 2020
+Show Overtime hours for YUNI MARDHIYAH for January 2020
+Show Overtime hours for YUNI MARDHIYAH for Februray 2020
+Show Overtime hours for YUNI MARDHIYAH for March 2020
+Show Overtime hours for YUNI MARDHIYAH for April 2020
+Show Overtime hours for YUNI MARDHIYAH for May 2020
+Show Overtime hours for YUNI MARDHIYAH for June 2020
+Show Overtime hours for YUNI MARDHIYAH for July 2020
+Show Overtime hours for YUNI MARDHIYAH for August 2020
+Show Overtime hours for YUNI MARDHIYAH for September 2020
+Show Overtime hours for ALMIRA YULIANTI for January 2020
+Show Overtime hours for ALMIRA YULIANTI for Februray 2020
+Show Overtime hours for ALMIRA YULIANTI for March 2020
+Show Overtime hours for ALMIRA YULIANTI for April 2020
+Show Overtime hours for ALMIRA YULIANTI for May 2020
+Show Overtime hours for ALMIRA YULIANTI for June 2020
+Show Overtime hours for ALMIRA YULIANTI for July 2020
+Show Overtime hours for ALMIRA YULIANTI for August 2020
+Show Overtime hours for ALMIRA YULIANTI for September 2020
+Show Overtime hours for QUEEN HARIYAH for January 2020
+Show Overtime hours for QUEEN HARIYAH for Februray 2020
+Show Overtime hours for QUEEN HARIYAH for March 2020
+Show Overtime hours for QUEEN HARIYAH for April 2020
+Show Overtime hours for QUEEN HARIYAH for May 2020
+Show Overtime hours for QUEEN HARIYAH for June 2020
+Show Overtime hours for QUEEN HARIYAH for July 2020
+Show Overtime hours for QUEEN HARIYAH for August 2020
+Show Overtime hours for QUEEN HARIYAH for September 2020
+Show Overtime hours for JANE PADMASARI for January 2020
+Show Overtime hours for JANE PADMASARI for Februray 2020
+Show Overtime hours for JANE PADMASARI for March 2020
+Show Overtime hours for JANE PADMASARI for April 2020
+Show Overtime hours for JANE PADMASARI for May 2020
+Show Overtime hours for JANE PADMASARI for June 2020
+Show Overtime hours for JANE PADMASARI for July 2020
+Show Overtime hours for JANE PADMASARI for August 2020
+Show Overtime hours for JANE PADMASARI for September 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for January 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for Februray 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for March 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for April 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for May 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for June 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for July 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for August 2020
+Show Overtime hours for QORI WIDIASTUTI S.KOM for September 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for January 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for Februray 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for March 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for April 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for May 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for June 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for July 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for August 2020
+Show Overtime hours for CALISTA DALIMA PADMASARI for September 2020
+Show Overtime hours for DODO SIRAIT for January 2020
+Show Overtime hours for DODO SIRAIT for Februray 2020
+Show Overtime hours for DODO SIRAIT for March 2020
+Show Overtime hours for DODO SIRAIT for April 2020
+Show Overtime hours for DODO SIRAIT for May 2020
+Show Overtime hours for DODO SIRAIT for June 2020
+Show Overtime hours for DODO SIRAIT for July 2020
+Show Overtime hours for DODO SIRAIT for August 2020
+Show Overtime hours for DODO SIRAIT for September 2020
+Show Overtime hours for WIDYA NURDIYANTI for January 2020
+Show Overtime hours for WIDYA NURDIYANTI for Februray 2020
+Show Overtime hours for WIDYA NURDIYANTI for March 2020
+Show Overtime hours for WIDYA NURDIYANTI for April 2020
+Show Overtime hours for WIDYA NURDIYANTI for May 2020
+Show Overtime hours for WIDYA NURDIYANTI for June 2020
+Show Overtime hours for WIDYA NURDIYANTI for July 2020
+Show Overtime hours for WIDYA NURDIYANTI for August 2020
+Show Overtime hours for WIDYA NURDIYANTI for September 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor January 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor Februray 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor March 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor April 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor May 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor June 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor July 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor August 2020
+Show Overtime hours for LABUH TASWIR HARDIANSYAHfor September 2020
+Show Overtime hours for SADINA UMI NASYIDAH for January 2020
+Show Overtime hours for SADINA UMI NASYIDAH for Februray 2020
+Show Overtime hours for SADINA UMI NASYIDAH for March 2020
+Show Overtime hours for SADINA UMI NASYIDAH for April 2020
+Show Overtime hours for SADINA UMI NASYIDAH for May 2020
+Show Overtime hours for SADINA UMI NASYIDAH for June 2020
+Show Overtime hours for SADINA UMI NASYIDAH for July 2020
+Show Overtime hours for SADINA UMI NASYIDAH for August 2020
+Show Overtime hours for SADINA UMI NASYIDAH for September 2020
+Show Overtime hours for PATRICIA ANGGRAINI for January 2020
+Show Overtime hours for PATRICIA ANGGRAINI for Februray 2020
+Show Overtime hours for PATRICIA ANGGRAINI for March 2020
+Show Overtime hours for PATRICIA ANGGRAINI for April 2020
+Show Overtime hours for PATRICIA ANGGRAINI for May 2020
+Show Overtime hours for PATRICIA ANGGRAINI for June 2020
+Show Overtime hours for PATRICIA ANGGRAINI for July 2020
+Show Overtime hours for PATRICIA ANGGRAINI for August 2020
+Show Overtime hours for PATRICIA ANGGRAINI for September 2020
+Show Overtime hours for JANE LAKSITA M.PD for January 2020
+Show Overtime hours for JANE LAKSITA M.PD for Februray 2020
+Show Overtime hours for JANE LAKSITA M.PD for March 2020
+Show Overtime hours for JANE LAKSITA M.PD for April 2020
+Show Overtime hours for JANE LAKSITA M.PD for May 2020
+Show Overtime hours for JANE LAKSITA M.PD for June 2020
+Show Overtime hours for JANE LAKSITA M.PD for July 2020
+Show Overtime hours for JANE LAKSITA M.PD for August 2020
+Show Overtime hours for JANE LAKSITA M.PD for September 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for January 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for Februray 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for March 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for April 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for May 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for June 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for July 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for August 2020
+Show Overtime hours for WAHYU WARSA SIRAIT for September 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for January 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for Februray 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for March 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for April 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for May 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for June 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for July 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for August 2020
+Show Overtime hours for TANTRI LAILASARI S.E. for September 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for January 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for Februray 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for March 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for April 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for May 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for June 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for July 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for August 2020
+Show Overtime hours for BAGIYA CAKRAWALA THAMRIN M.PD for September 2020
+Show Overtime hours for TITIN WIDIASTUTI for January 2020
+Show Overtime hours for TITIN WIDIASTUTI for Februray 2020
+Show Overtime hours for TITIN WIDIASTUTI for March 2020
+Show Overtime hours for TITIN WIDIASTUTI for April 2020
+Show Overtime hours for TITIN WIDIASTUTI for May 2020
+Show Overtime hours for TITIN WIDIASTUTI for June 2020
+Show Overtime hours for TITIN WIDIASTUTI for July 2020
+Show Overtime hours for TITIN WIDIASTUTI for August 2020
+Show Overtime hours for TITIN WIDIASTUTI for September 2020
+Show Overtime hours for EMAN PRASASTA for January 2020
+Show Overtime hours for EMAN PRASASTA for Februray 2020
+Show Overtime hours for EMAN PRASASTA for March 2020
+Show Overtime hours for EMAN PRASASTA for April 2020
+Show Overtime hours for EMAN PRASASTA for May 2020
+Show Overtime hours for EMAN PRASASTA for June 2020
+Show Overtime hours for EMAN PRASASTA for July 2020
+Show Overtime hours for EMAN PRASASTA for August 2020
+Show Overtime hours for EMAN PRASASTA for September 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for January 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for Februray 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for March 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for April 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for May 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for June 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for July 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for August 2020
+Show Overtime hours for AKARSANA FIRMANSYAH for September 2020
+Show Overtime hours for KARYA MARPAUNG for January 2020
+Show Overtime hours for KARYA MARPAUNG for Februray 2020
+Show Overtime hours for KARYA MARPAUNG for March 2020
+Show Overtime hours for KARYA MARPAUNG for April 2020
+Show Overtime hours for KARYA MARPAUNG for May 2020
+Show Overtime hours for KARYA MARPAUNG for June 2020
+Show Overtime hours for KARYA MARPAUNG for July 2020
+Show Overtime hours for KARYA MARPAUNG for August 2020
+Show Overtime hours for KARYA MARPAUNG for September 2020
+Show Overtime hours for USYI ILSA USADA for January 2020
+Show Overtime hours for USYI ILSA USADA for Februray 2020
+Show Overtime hours for USYI ILSA USADA for March 2020
+Show Overtime hours for USYI ILSA USADA for April 2020
+Show Overtime hours for USYI ILSA USADA for May 2020
+Show Overtime hours for USYI ILSA USADA for June 2020
+Show Overtime hours for USYI ILSA USADA for July 2020
+Show Overtime hours for USYI ILSA USADA for August 2020
+Show Overtime hours for USYI ILSA USADA for September 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for January 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for Februray 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for March 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for April 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for May 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for June 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for July 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for August 2020
+Show Overtime hours for ZAMIRA KEISHA SURYATMI for September 2020
+Show Overtime hours for DIMAS SIHOTANG for January 2020
+Show Overtime hours for DIMAS SIHOTANG for Februray 2020
+Show Overtime hours for DIMAS SIHOTANG for March 2020
+Show Overtime hours for DIMAS SIHOTANG for April 2020
+Show Overtime hours for DIMAS SIHOTANG for May 2020
+Show Overtime hours for DIMAS SIHOTANG for June 2020
+Show Overtime hours for DIMAS SIHOTANG for July 2020
+Show Overtime hours for DIMAS SIHOTANG for August 2020
+Show Overtime hours for DIMAS SIHOTANG for September 2020
+Show Overtime hours for DIAN FARIDA for January 2020
+Show Overtime hours for DIAN FARIDA for Februray 2020
+Show Overtime hours for DIAN FARIDA for March 2020
+Show Overtime hours for DIAN FARIDA for April 2020
+Show Overtime hours for DIAN FARIDA for May 2020
+Show Overtime hours for DIAN FARIDA for June 2020
+Show Overtime hours for DIAN FARIDA for July 2020
+Show Overtime hours for DIAN FARIDA for August 2020
+Show Overtime hours for DIAN FARIDA for September 2020
+Show Overtime hours for DEWI PADMASARI S.T. for January 2020
+Show Overtime hours for DEWI PADMASARI S.T. for Februray 2020
+Show Overtime hours for DEWI PADMASARI S.T. for March 2020
+Show Overtime hours for DEWI PADMASARI S.T. for April 2020
+Show Overtime hours for DEWI PADMASARI S.T. for May 2020
+Show Overtime hours for DEWI PADMASARI S.T. for June 2020
+Show Overtime hours for DEWI PADMASARI S.T. for July 2020
+Show Overtime hours for DEWI PADMASARI S.T. for August 2020
+Show Overtime hours for DEWI PADMASARI S.T. for September 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for January 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for Februray 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for March 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for April 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for May 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for June 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for July 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for August 2020
+Show Overtime hours for RADEN GANDI WIBISONO M.PD for September 2020
+Show Overtime hours for KARIMAH HALIMAH for January 2020
+Show Overtime hours for KARIMAH HALIMAH for Februray 2020
+Show Overtime hours for KARIMAH HALIMAH for March 2020
+Show Overtime hours for KARIMAH HALIMAH for April 2020
+Show Overtime hours for KARIMAH HALIMAH for May 2020
+Show Overtime hours for KARIMAH HALIMAH for June 2020
+Show Overtime hours for KARIMAH HALIMAH for July 2020
+Show Overtime hours for KARIMAH HALIMAH for August 2020
+Show Overtime hours for KARIMAH HALIMAH for September 2020
+Show Overtime hours for RAHAYU WIJAYANTI for January 2020
+Show Overtime hours for RAHAYU WIJAYANTI for Februray 2020
+Show Overtime hours for RAHAYU WIJAYANTI for March 2020
+Show Overtime hours for RAHAYU WIJAYANTI for April 2020
+Show Overtime hours for RAHAYU WIJAYANTI for May 2020
+Show Overtime hours for RAHAYU WIJAYANTI for June 2020
+Show Overtime hours for RAHAYU WIJAYANTI for July 2020
+Show Overtime hours for RAHAYU WIJAYANTI for August 2020
+Show Overtime hours for RAHAYU WIJAYANTI for September 2020
+Show Overtime hours for SHAKILA PRASTUTI for January 2020
+Show Overtime hours for SHAKILA PRASTUTI for Februray 2020
+Show Overtime hours for SHAKILA PRASTUTI for March 2020
+Show Overtime hours for SHAKILA PRASTUTI for April 2020
+Show Overtime hours for SHAKILA PRASTUTI for May 2020
+Show Overtime hours for SHAKILA PRASTUTI for June 2020
+Show Overtime hours for SHAKILA PRASTUTI for July 2020
+Show Overtime hours for SHAKILA PRASTUTI for August 2020
+Show Overtime hours for SHAKILA PRASTUTI for September 2020
+Show Overtime hours for HASNA PUDJIASTUTI for January 2020
+Show Overtime hours for HASNA PUDJIASTUTI for Februray 2020
+Show Overtime hours for HASNA PUDJIASTUTI for March 2020
+Show Overtime hours for HASNA PUDJIASTUTI for April 2020
+Show Overtime hours for HASNA PUDJIASTUTI for May 2020
+Show Overtime hours for HASNA PUDJIASTUTI for June 2020
+Show Overtime hours for HASNA PUDJIASTUTI for July 2020
+Show Overtime hours for HASNA PUDJIASTUTI for August 2020
+Show Overtime hours for HASNA PUDJIASTUTI for September 2020
+Show Overtime hours for SATYA HIDAYANTO for January 2020
+Show Overtime hours for SATYA HIDAYANTO for Februray 2020
+Show Overtime hours for SATYA HIDAYANTO for March 2020
+Show Overtime hours for SATYA HIDAYANTO for April 2020
+Show Overtime hours for SATYA HIDAYANTO for May 2020
+Show Overtime hours for SATYA HIDAYANTO for June 2020
+Show Overtime hours for SATYA HIDAYANTO for July 2020
+Show Overtime hours for SATYA HIDAYANTO for August 2020
+Show Overtime hours for SATYA HIDAYANTO for September 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for January 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for Februray 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for March 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for April 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for May 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for June 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for July 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for August 2020
+Show Overtime hours for GILANG MEGANTARA S.E. for September 2020
+Show Overtime hours for TARI HASSANAH S.IP for January 2020
+Show Overtime hours for TARI HASSANAH S.IP for Februray 2020
+Show Overtime hours for TARI HASSANAH S.IP for March 2020
+Show Overtime hours for TARI HASSANAH S.IP for April 2020
+Show Overtime hours for TARI HASSANAH S.IP for May 2020
+Show Overtime hours for TARI HASSANAH S.IP for June 2020
+Show Overtime hours for TARI HASSANAH S.IP for July 2020
+Show Overtime hours for TARI HASSANAH S.IP for August 2020
+Show Overtime hours for TARI HASSANAH S.IP for September 2020
+Show Overtime hours for SALSABILA NURDIYANTI for January 2020
+Show Overtime hours for SALSABILA NURDIYANTI for Februray 2020
+Show Overtime hours for SALSABILA NURDIYANTI for March 2020
+Show Overtime hours for SALSABILA NURDIYANTI for April 2020
+Show Overtime hours for SALSABILA NURDIYANTI for May 2020
+Show Overtime hours for SALSABILA NURDIYANTI for June 2020
+Show Overtime hours for SALSABILA NURDIYANTI for July 2020
+Show Overtime hours for SALSABILA NURDIYANTI for August 2020
+Show Overtime hours for SALSABILA NURDIYANTI for September 2020
+Show Overtime hours for TAUFIK MARYADI for January 2020
+Show Overtime hours for TAUFIK MARYADI for Februray 2020
+Show Overtime hours for TAUFIK MARYADI for March 2020
+Show Overtime hours for TAUFIK MARYADI for April 2020
+Show Overtime hours for TAUFIK MARYADI for May 2020
+Show Overtime hours for TAUFIK MARYADI for June 2020
+Show Overtime hours for TAUFIK MARYADI for July 2020
+Show Overtime hours for TAUFIK MARYADI for August 2020
+Show Overtime hours for TAUFIK MARYADI for September 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for January 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for Februray 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for March 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for April 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for May 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for June 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for July 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for August 2020
+Show Overtime hours for ELVINA NASYIDAH S.PT for September 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for January 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for Februray 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for March 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for April 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for May 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for June 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for July 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for August 2020
+Show Overtime hours for PRABAWA DACIN KUSWOYO for September 2020
+Show Overtime hours for PAIMAN MANULLANG for January 2020
+Show Overtime hours for PAIMAN MANULLANG for Februray 2020
+Show Overtime hours for PAIMAN MANULLANG for March 2020
+Show Overtime hours for PAIMAN MANULLANG for April 2020
+Show Overtime hours for PAIMAN MANULLANG for May 2020
+Show Overtime hours for PAIMAN MANULLANG for June 2020
+Show Overtime hours for PAIMAN MANULLANG for July 2020
+Show Overtime hours for PAIMAN MANULLANG for August 2020
+Show Overtime hours for PAIMAN MANULLANG for September 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for January 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for Februray 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for March 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for April 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for May 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for June 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for July 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for August 2020
+Show Overtime hours for JARWI SITOMPUL S.KOM for September 2020
+Show Overtime hours for GARA PRAKASA for January 2020
+Show Overtime hours for GARA PRAKASA for Februray 2020
+Show Overtime hours for GARA PRAKASA for March 2020
+Show Overtime hours for GARA PRAKASA for April 2020
+Show Overtime hours for GARA PRAKASA for May 2020
+Show Overtime hours for GARA PRAKASA for June 2020
+Show Overtime hours for GARA PRAKASA for July 2020
+Show Overtime hours for GARA PRAKASA for August 2020
+Show Overtime hours for GARA PRAKASA for September 2020
+Show Overtime hours for GALAR PRASETYO for January 2020
+Show Overtime hours for GALAR PRASETYO for Februray 2020
+Show Overtime hours for GALAR PRASETYO for March 2020
+Show Overtime hours for GALAR PRASETYO for April 2020
+Show Overtime hours for GALAR PRASETYO for May 2020
+Show Overtime hours for GALAR PRASETYO for June 2020
+Show Overtime hours for GALAR PRASETYO for July 2020
+Show Overtime hours for GALAR PRASETYO for August 2020
+Show Overtime hours for GALAR PRASETYO for September 2020
+Show Overtime hours for NADIA WULANDARI for January 2020
+Show Overtime hours for NADIA WULANDARI for Februray 2020
+Show Overtime hours for NADIA WULANDARI for March 2020
+Show Overtime hours for NADIA WULANDARI for April 2020
+Show Overtime hours for NADIA WULANDARI for May 2020
+Show Overtime hours for NADIA WULANDARI for June 2020
+Show Overtime hours for NADIA WULANDARI for July 2020
+Show Overtime hours for NADIA WULANDARI for August 2020
+Show Overtime hours for NADIA WULANDARI for September 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for January 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for Februray 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for March 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for April 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for May 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for June 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for July 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for August 2020
+Show Overtime hours for TITI ELISA LAILASARI S.KOM for September 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for January 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for Februray 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for March 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for April 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for May 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for June 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for July 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for August 2020
+Show Overtime hours for AURORA SAFITRI M.TI. for September 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for January 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for Februray 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for March 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for April 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for May 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for June 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for July 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for August 2020
+Show Overtime hours for UDA DARU GUNARTO S.PSI for September 2020
+Show Overtime hours for SABRINA HALIMAH for January 2020
+Show Overtime hours for SABRINA HALIMAH for Februray 2020
+Show Overtime hours for SABRINA HALIMAH for March 2020
+Show Overtime hours for SABRINA HALIMAH for April 2020
+Show Overtime hours for SABRINA HALIMAH for May 2020
+Show Overtime hours for SABRINA HALIMAH for June 2020
+Show Overtime hours for SABRINA HALIMAH for July 2020
+Show Overtime hours for SABRINA HALIMAH for August 2020
+Show Overtime hours for SABRINA HALIMAH for September 2020
+Show Overtime hours for ADIKA WALUYO for January 2020
+Show Overtime hours for ADIKA WALUYO for Februray 2020
+Show Overtime hours for ADIKA WALUYO for March 2020
+Show Overtime hours for ADIKA WALUYO for April 2020
+Show Overtime hours for ADIKA WALUYO for May 2020
+Show Overtime hours for ADIKA WALUYO for June 2020
+Show Overtime hours for ADIKA WALUYO for July 2020
+Show Overtime hours for ADIKA WALUYO for August 2020
+Show Overtime hours for ADIKA WALUYO for September 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for January 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for Februray 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for March 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for April 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for May 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for June 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for July 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for August 2020
+Show Overtime hours for ULI ANA MARYATI S.FARM for September 2020
+Show Overtime hours for SAKURA UTAMI for January 2020
+Show Overtime hours for SAKURA UTAMI for Februray 2020
+Show Overtime hours for SAKURA UTAMI for March 2020
+Show Overtime hours for SAKURA UTAMI for April 2020
+Show Overtime hours for SAKURA UTAMI for May 2020
+Show Overtime hours for SAKURA UTAMI for June 2020
+Show Overtime hours for SAKURA UTAMI for July 2020
+Show Overtime hours for SAKURA UTAMI for August 2020
+Show Overtime hours for SAKURA UTAMI for September 2020
+Show Overtime hours for TEGUH SIHOMBING for January 2020
+Show Overtime hours for TEGUH SIHOMBING for Februray 2020
+Show Overtime hours for TEGUH SIHOMBING for March 2020
+Show Overtime hours for TEGUH SIHOMBING for April 2020
+Show Overtime hours for TEGUH SIHOMBING for May 2020
+Show Overtime hours for TEGUH SIHOMBING for June 2020
+Show Overtime hours for TEGUH SIHOMBING for July 2020
+Show Overtime hours for TEGUH SIHOMBING for August 2020
+Show Overtime hours for TEGUH SIHOMBING for September 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for January 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for Februray 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for March 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for April 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for May 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for June 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for July 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for August 2020
+Show Overtime hours for CAYADI LATUPONO S.PD for September 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T. for January 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T.  for Februray 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T. for March 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T.  for April 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T.  for May 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T.  for June 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T. for July 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T.  for August 2020
+Show Overtime hours for RINA YESSI WULANDARI S.T. for September 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for January 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for Februray 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for March 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for April 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for May 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for June 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for July 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for August 2020
+Show Overtime hours for ZALINDRA SABRINA NURDIYANTI S.FARM for September 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for January 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for Februray 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for March 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for April 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for May 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for June 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for July 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for August 2020
+Show Overtime hours for VIVI YULIARTI S.I.KOM for September 2020
+Show Overtime hours for NARADI TAMBA S.PSI for January 2020
+Show Overtime hours for NARADI TAMBA S.PSI for Februray 2020
+Show Overtime hours for NARADI TAMBA S.PSI for March 2020
+Show Overtime hours for NARADI TAMBA S.PSI for April 2020
+Show Overtime hours for NARADI TAMBA S.PSI for May 2020
+Show Overtime hours for NARADI TAMBA S.PSI for June 2020
+Show Overtime hours for NARADI TAMBA S.PSI for July 2020
+Show Overtime hours for NARADI TAMBA S.PSI for August 2020
+Show Overtime hours for NARADI TAMBA S.PSI for September 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for January 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for Februray 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for March 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for April 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for May 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for June 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for July 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for August 2020
+Show Overtime hours for DARMANTO CEMPLUNK MARBUN M.FARM for September 2020
+Show Overtime hours for NASIM MANULLANG for January 2020
+Show Overtime hours for NASIM MANULLANG for Februray 2020
+Show Overtime hours for NASIM MANULLANG for March 2020
+Show Overtime hours for NASIM MANULLANG for April 2020
+Show Overtime hours for NASIM MANULLANG for May 2020
+Show Overtime hours for NASIM MANULLANG for June 2020
+Show Overtime hours for NASIM MANULLANG for July 2020
+Show Overtime hours for NASIM MANULLANG for August 2020
+Show Overtime hours for NASIM MANULLANG for September 2020
+Show Overtime hours for EMONG ANGGRIAWAN for January 2020
+Show Overtime hours for EMONG ANGGRIAWAN for Februray 2020
+Show Overtime hours for EMONG ANGGRIAWAN for March 2020
+Show Overtime hours for EMONG ANGGRIAWAN for April 2020
+Show Overtime hours for EMONG ANGGRIAWAN for May 2020
+Show Overtime hours for EMONG ANGGRIAWAN for June 2020
+Show Overtime hours for EMONG ANGGRIAWAN for July 2020
+Show Overtime hours for EMONG ANGGRIAWAN for August 2020
+Show Overtime hours for EMONG ANGGRIAWAN for September 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for January 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for Februray 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for March 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for April 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for May 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for June 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for July 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for August 2020
+Show Overtime hours for CENGKAL GARDA SIREGAR for September 2020
+Show Overtime hours for PUSPA PRATIWI for January 2020
+Show Overtime hours for PUSPA PRATIWI for Februray 2020
+Show Overtime hours for PUSPA PRATIWI for March 2020
+Show Overtime hours for PUSPA PRATIWI for April 2020
+Show Overtime hours for PUSPA PRATIWI for May 2020
+Show Overtime hours for PUSPA PRATIWI for June 2020
+Show Overtime hours for PUSPA PRATIWI for July 2020
+Show Overtime hours for PUSPA PRATIWI for August 2020
+Show Overtime hours for PUSPA PRATIWI for September 2020
+Show Overtime hours for CAWISADI PANGESTU for January 2020
+Show Overtime hours for CAWISADI PANGESTU for Februray 2020
+Show Overtime hours for CAWISADI PANGESTU for March 2020
+Show Overtime hours for CAWISADI PANGESTU for April 2020
+Show Overtime hours for CAWISADI PANGESTU for May 2020
+Show Overtime hours for CAWISADI PANGESTU for June 2020
+Show Overtime hours for CAWISADI PANGESTU for July 2020
+Show Overtime hours for CAWISADI PANGESTU for August 2020
+Show Overtime hours for CAWISADI PANGESTU for September 2020
+Show Overtime hours for JULIA PALASTRI for January 2020
+Show Overtime hours for JULIA PALASTRI for Februray 2020
+Show Overtime hours for JULIA PALASTRI for March 2020
+Show Overtime hours for JULIA PALASTRI for April 2020
+Show Overtime hours for JULIA PALASTRI for May 2020
+Show Overtime hours for JULIA PALASTRI for June 2020
+Show Overtime hours for JULIA PALASTRI for July 2020
+Show Overtime hours for JULIA PALASTRI for August 2020
+Show Overtime hours for JULIA PALASTRI for September 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for January 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for Februray 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for March 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for April 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for May 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for June 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for July 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for August 2020
+Show Overtime hours for FARAH WULANDARI S.PSI for September 2020
+Show Overtime hours for VIMAN NAPITUPULU for January 2020
+Show Overtime hours for VIMAN NAPITUPULU for Februray 2020
+Show Overtime hours for VIMAN NAPITUPULU for March 2020
+Show Overtime hours for VIMAN NAPITUPULU for April 2020
+Show Overtime hours for VIMAN NAPITUPULU for May 2020
+Show Overtime hours for VIMAN NAPITUPULU for June 2020
+Show Overtime hours for VIMAN NAPITUPULU for July 2020
+Show Overtime hours for VIMAN NAPITUPULU for August 2020
+Show Overtime hours for VIMAN NAPITUPULU for September 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for January 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for Februray 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for March 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for April 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for May 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for June 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for July 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for August 2020
+Show Overtime hours for SALSABILA NAMAGA S.E.I for September 2020
+Show Overtime hours for TALIA SUDIATI M.M. for January 2020
+Show Overtime hours for TALIA SUDIATI M.M. for Februray 2020
+Show Overtime hours for TALIA SUDIATI M.M. for March 2020
+Show Overtime hours for TALIA SUDIATI M.M. for April 2020
+Show Overtime hours for TALIA SUDIATI M.M. for May 2020
+Show Overtime hours for TALIA SUDIATI M.M. for June 2020
+Show Overtime hours for TALIA SUDIATI M.M. for July 2020
+Show Overtime hours for TALIA SUDIATI M.M. for August 2020
+Show Overtime hours for TALIA SUDIATI M.M. for September 2020
+Show Overtime hours for ENDAH KUSMAWATI for January 2020
+Show Overtime hours for ENDAH KUSMAWATI for Februray 2020
+Show Overtime hours for ENDAH KUSMAWATI for March 2020
+Show Overtime hours for ENDAH KUSMAWATI for April 2020
+Show Overtime hours for ENDAH KUSMAWATI for May 2020
+Show Overtime hours for ENDAH KUSMAWATI for June 2020
+Show Overtime hours for ENDAH KUSMAWATI for July 2020
+Show Overtime hours for ENDAH KUSMAWATI for August 2020
+Show Overtime hours for ENDAH KUSMAWATI for September 2020
+Show Overtime hours for HARSAYA PRATAMA for January 2020
+Show Overtime hours for HARSAYA PRATAMA for Februray 2020
+Show Overtime hours for HARSAYA PRATAMA for March 2020
+Show Overtime hours for HARSAYA PRATAMA for April 2020
+Show Overtime hours for HARSAYA PRATAMA for May 2020
+Show Overtime hours for HARSAYA PRATAMA for June 2020
+Show Overtime hours for HARSAYA PRATAMA for July 2020
+Show Overtime hours for HARSAYA PRATAMA for August 2020
+Show Overtime hours for HARSAYA PRATAMA for September 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for January 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for Februray 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for March 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for April 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for May 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for June 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for July 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for August 2020
+Show Overtime hours for DARMANTO PANGESTU S.E. for September 2020
+Show Overtime hours for TITIN MELANI for January 2020
+Show Overtime hours for TITIN MELANI for Februray 2020
+Show Overtime hours for TITIN MELANI for March 2020
+Show Overtime hours for TITIN MELANI for April 2020
+Show Overtime hours for TITIN MELANI for May 2020
+Show Overtime hours for TITIN MELANI for June 2020
+Show Overtime hours for TITIN MELANI for July 2020
+Show Overtime hours for TITIN MELANI for August 2020
+Show Overtime hours for TITIN MELANI for September 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for January 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for Februray 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for March 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for April 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for May 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for June 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for July 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for August 2020
+Show Overtime hours for HALIMA HILDA WIJAYANTI M.AK for September 2020
+Show Overtime hours for MAIDA LESTARI for January 2020
+Show Overtime hours for MAIDA LESTARI for Februray 2020
+Show Overtime hours for MAIDA LESTARI for March 2020
+Show Overtime hours for MAIDA LESTARI for April 2020
+Show Overtime hours for MAIDA LESTARI for May 2020
+Show Overtime hours for MAIDA LESTARI for June 2020
+Show Overtime hours for MAIDA LESTARI for July 2020
+Show Overtime hours for MAIDA LESTARI for August 2020
+Show Overtime hours for MAIDA LESTARI for September 2020
+Show Overtime hours for KARIMAN TAMBA for January 2020
+Show Overtime hours for KARIMAN TAMBA for Februray 2020
+Show Overtime hours for KARIMAN TAMBA for March 2020
+Show Overtime hours for KARIMAN TAMBA for April 2020
+Show Overtime hours for KARIMAN TAMBA for May 2020
+Show Overtime hours for KARIMAN TAMBA for June 2020
+Show Overtime hours for KARIMAN TAMBA for July 2020
+Show Overtime hours for KARIMAN TAMBA for August 2020
+Show Overtime hours for KARIMAN TAMBA for September 2020
+Show Overtime hours for EVA USAMAH for January 2020
+Show Overtime hours for EVA USAMAH for Februray 2020
+Show Overtime hours for EVA USAMAH for March 2020
+Show Overtime hours for EVA USAMAH for April 2020
+Show Overtime hours for EVA USAMAH for May 2020
+Show Overtime hours for EVA USAMAH for June 2020
+Show Overtime hours for EVA USAMAH for July 2020
+Show Overtime hours for EVA USAMAH for August 2020
+Show Overtime hours for EVA USAMAH for September 2020
+Show Overtime hours for YULIANA ASTUTI for January 2020
+Show Overtime hours for YULIANA ASTUTI for Februray 2020
+Show Overtime hours for YULIANA ASTUTI for March 2020
+Show Overtime hours for YULIANA ASTUTI for April 2020
+Show Overtime hours for YULIANA ASTUTI for May 2020
+Show Overtime hours for YULIANA ASTUTI for June 2020
+Show Overtime hours for YULIANA ASTUTI for July 2020
+Show Overtime hours for YULIANA ASTUTI for August 2020
+Show Overtime hours for YULIANA ASTUTI for September 2020
+Show Overtime hours for GATOT MEGANTARA for January 2020
+Show Overtime hours for GATOT MEGANTARA for Februray 2020
+Show Overtime hours for GATOT MEGANTARA for March 2020
+Show Overtime hours for GATOT MEGANTARA for April 2020
+Show Overtime hours for GATOT MEGANTARA for May 2020
+Show Overtime hours for GATOT MEGANTARA for June 2020
+Show Overtime hours for GATOT MEGANTARA for July 2020
+Show Overtime hours for GATOT MEGANTARA for August 2020
+Show Overtime hours for GATOT MEGANTARA for September 2020
+Show Overtime hours for LUIS WIBOWO for January 2020
+Show Overtime hours for LUIS WIBOWO for Februray 2020
+Show Overtime hours for LUIS WIBOWO for March 2020
+Show Overtime hours for LUIS WIBOWO for April 2020
+Show Overtime hours for LUIS WIBOWO for May 2020
+Show Overtime hours for LUIS WIBOWO for June 2020
+Show Overtime hours for LUIS WIBOWO for July 2020
+Show Overtime hours for LUIS WIBOWO for August 2020
+Show Overtime hours for LUIS WIBOWO for September 2020
+Show Overtime hours for HARTANA SIRAIT for January 2020
+Show Overtime hours for HARTANA SIRAIT for Februray 2020
+Show Overtime hours for HARTANA SIRAIT for March 2020
+Show Overtime hours for HARTANA SIRAIT for April 2020
+Show Overtime hours for HARTANA SIRAIT for May 2020
+Show Overtime hours for HARTANA SIRAIT for June 2020
+Show Overtime hours for HARTANA SIRAIT for July 2020
+Show Overtime hours for HARTANA SIRAIT for August 2020
+Show Overtime hours for HARTANA SIRAIT for September 2020
+Show Overtime hours for NATALIA ASTUTI for January 2020
+Show Overtime hours for NATALIA ASTUTI for Februray 2020
+Show Overtime hours for NATALIA ASTUTI for March 2020
+Show Overtime hours for NATALIA ASTUTI for April 2020
+Show Overtime hours for NATALIA ASTUTI for May 2020
+Show Overtime hours for NATALIA ASTUTI for June 2020
+Show Overtime hours for NATALIA ASTUTI for July 2020
+Show Overtime hours for NATALIA ASTUTI for August 2020
+Show Overtime hours for NATALIA ASTUTI for September 2020
+Show Overtime hours for SARI ILSA MARYATI for January 2020
+Show Overtime hours for SARI ILSA MARYATI for Februray 2020
+Show Overtime hours for SARI ILSA MARYATI for March 2020
+Show Overtime hours for SARI ILSA MARYATI for April 2020
+Show Overtime hours for SARI ILSA MARYATI for May 2020
+Show Overtime hours for SARI ILSA MARYATI for June 2020
+Show Overtime hours for SARI ILSA MARYATI for July 2020
+Show Overtime hours for SARI ILSA MARYATI for August 2020
+Show Overtime hours for SARI ILSA MARYATI for September 2020
+Show Overtime hours for TANTRI WIJAYANTI for January 2020
+Show Overtime hours for TANTRI WIJAYANTI for Februray 2020
+Show Overtime hours for TANTRI WIJAYANTI for March 2020
+Show Overtime hours for TANTRI WIJAYANTI for April 2020
+Show Overtime hours for TANTRI WIJAYANTI for May 2020
+Show Overtime hours for TANTRI WIJAYANTI for June 2020
+Show Overtime hours for TANTRI WIJAYANTI for July 2020
+Show Overtime hours for TANTRI WIJAYANTI for August 2020
+Show Overtime hours for TANTRI WIJAYANTI for September 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for January 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for Februray 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for March 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for April 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for May 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for June 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for July 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for August 2020
+Show Overtime hours for ANASTASIA NURDIYANTI for September 2020
+Show Overtime hours for PUJI SUSANTI for January 2020
+Show Overtime hours for PUJI SUSANTI for Februray 2020
+Show Overtime hours for PUJI SUSANTI for March 2020
+Show Overtime hours for PUJI SUSANTI for April 2020
+Show Overtime hours for PUJI SUSANTI for May 2020
+Show Overtime hours for PUJI SUSANTI for June 2020
+Show Overtime hours for PUJI SUSANTI for July 2020
+Show Overtime hours for PUJI SUSANTI for August 2020
+Show Overtime hours for PUJI SUSANTI for September 2020
+Show Overtime hours for KURNIA GUNAWAN for January 2020
+Show Overtime hours for KURNIA GUNAWAN for Februray 2020
+Show Overtime hours for KURNIA GUNAWAN for March 2020
+Show Overtime hours for KURNIA GUNAWAN for April 2020
+Show Overtime hours for KURNIA GUNAWAN for May 2020
+Show Overtime hours for KURNIA GUNAWAN for June 2020
+Show Overtime hours for KURNIA GUNAWAN for July 2020
+Show Overtime hours for KURNIA GUNAWAN for August 2020
+Show Overtime hours for KURNIA GUNAWAN for September 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for January 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for Februray 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for March 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for April 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for May 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for June 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for July 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for August 2020
+Show Overtime hours for CATURANGGA LASMANTO WINARNO for September 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for January 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for Februray 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for March 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for April 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for May 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for June 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for July 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for August 2020
+Show Overtime hours for GARAN BAHUWIRYA WINARNO M.FARM for September 2020
+Show Overtime hours for ULYA RIYANTI for January 2020
+Show Overtime hours for ULYA RIYANTI for Februray 2020
+Show Overtime hours for ULYA RIYANTI for March 2020
+Show Overtime hours for ULYA RIYANTI for April 2020
+Show Overtime hours for ULYA RIYANTI for May 2020
+Show Overtime hours for ULYA RIYANTI for June 2020
+Show Overtime hours for ULYA RIYANTI for July 2020
+Show Overtime hours for ULYA RIYANTI for August 2020
+Show Overtime hours for ULYA RIYANTI for September 2020
+Show Overtime hours for SALSABILA LESTARI for January 2020
+Show Overtime hours for SALSABILA LESTARI for Februray 2020
+Show Overtime hours for SALSABILA LESTARI for March 2020
+Show Overtime hours for SALSABILA LESTARI for April 2020
+Show Overtime hours for SALSABILA LESTARI for May 2020
+Show Overtime hours for SALSABILA LESTARI for June 2020
+Show Overtime hours for SALSABILA LESTARI for July 2020
+Show Overtime hours for SALSABILA LESTARI for August 2020
+Show Overtime hours for SALSABILA LESTARI for September 2020
+Show Overtime hours for INA OKTAVIANI for January 2020
+Show Overtime hours for INA OKTAVIANI for Februray 2020
+Show Overtime hours for INA OKTAVIANI for March 2020
+Show Overtime hours for INA OKTAVIANI for April 2020
+Show Overtime hours for INA OKTAVIANI for May 2020
+Show Overtime hours for INA OKTAVIANI for June 2020
+Show Overtime hours for INA OKTAVIANI for July 2020
+Show Overtime hours for INA OKTAVIANI for August 2020
+Show Overtime hours for INA OKTAVIANI for September 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for January 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for Februray 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for March 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for April 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for May 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for June 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for July 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for August 2020
+Show Overtime hours for ICHA RAHIMAH S.SOS for September 2020
+Show Overtime hours for USYI HASTUTI M.M. for January 2020
+Show Overtime hours for USYI HASTUTI M.M. for Februray 2020
+Show Overtime hours for USYI HASTUTI M.M. for March 2020
+Show Overtime hours for USYI HASTUTI M.M. for April 2020
+Show Overtime hours for USYI HASTUTI M.M. for May 2020
+Show Overtime hours for USYI HASTUTI M.M. for June 2020
+Show Overtime hours for USYI HASTUTI M.M. for July 2020
+Show Overtime hours for USYI HASTUTI M.M. for August 2020
+Show Overtime hours for USYI HASTUTI M.M. for September 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for January 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for Februray 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for March 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for April 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for May 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for June 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for July 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for August 2020
+Show Overtime hours for TITI ZELDA PRASTUTI for September 2020
+Show Overtime hours for SHANIA ARYANI for January 2020
+Show Overtime hours for SHANIA ARYANI for Februray 2020
+Show Overtime hours for SHANIA ARYANI for March 2020
+Show Overtime hours for SHANIA ARYANI for April 2020
+Show Overtime hours for SHANIA ARYANI for May 2020
+Show Overtime hours for SHANIA ARYANI for June 2020
+Show Overtime hours for SHANIA ARYANI for July 2020
+Show Overtime hours for SHANIA ARYANI for August 2020
+Show Overtime hours for SHANIA ARYANI for September 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for January 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for Februray 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for March 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for April 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for May 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for June 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for July 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for August 2020
+Show Overtime hours for KASUSRA SALAHUDIN M.AK for September 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for January 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for Februray 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for March 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for April 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for May 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for June 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for July 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for August 2020
+Show Overtime hours for DAGEL HARSANA RAMADAN for September 2020
+Show Overtime hours for KAREN OKTAVIANI for January 2020
+Show Overtime hours for KAREN OKTAVIANI for Februray 2020
+Show Overtime hours for KAREN OKTAVIANI for March 2020
+Show Overtime hours for KAREN OKTAVIANI for April 2020
+Show Overtime hours for KAREN OKTAVIANI for May 2020
+Show Overtime hours for KAREN OKTAVIANI for June 2020
+Show Overtime hours for KAREN OKTAVIANI for July 2020
+Show Overtime hours for KAREN OKTAVIANI for August 2020
+Show Overtime hours for KAREN OKTAVIANI for September 2020
+Show Overtime hours for ELLA RAHIMAH for January 2020
+Show Overtime hours for ELLA RAHIMAH for Februray 2020
+Show Overtime hours for ELLA RAHIMAH for March 2020
+Show Overtime hours for ELLA RAHIMAH for April 2020
+Show Overtime hours for ELLA RAHIMAH for May 2020
+Show Overtime hours for ELLA RAHIMAH for June 2020
+Show Overtime hours for ELLA RAHIMAH for July 2020
+Show Overtime hours for ELLA RAHIMAH for August 2020
+Show Overtime hours for ELLA RAHIMAH for September 2020
+Show Overtime hours for a specific employee name over the entire duration of months given in the data
+Show Overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM.
+Show  Overtime amount paid for CATUR SIMANJUNTAK
+Show  Overtime amount paid for UMI WAHYUNI
+Show  Overtime amount paid for HAMIMA DALIMA LESTARI S.PD
+Show  Overtime amount paid for PUSPA SYAHRINI ANDRIANI
+Show  Overtime amount paid for PATRICIA RAHMAWATI M.FARM
+Show  Overtime amount paid for INTAN USADA
+Show  Overtime amount paid for GALAK JANUAR
+Show  Overtime amount paid for WINDA QORI LAKSMIWATI S.H.
+Show  Overtime amount paid for PARDI JANUAR S.FARM
+Show  Overtime amount paid for ANOM FIRGANTORO
+Show  Overtime amount paid for JOKO MARYADI
+Show  Overtime amount paid for RATNA RIYANTI M.TI.
+Show  Overtime amount paid for DARIATI HAKIM
+Show  Overtime amount paid for USYI VANESA AGUSTINA
+Show  Overtime amount paid for KEZIA PERMATA
+Show  Overtime amount paid for SAKURA PADMASARI
+Show  Overtime amount paid for YUNI MARDHIYAH
+Show  Overtime amount paid for ALMIRA YULIANTI
+Show  Overtime amount paid for QUEEN HARIYAH
+Show  Overtime amount paid for JANE PADMASARI
+Show  Overtime amount paid for QORI WIDIASTUTI S.KOM
+Show  Overtime amount paid for CALISTA DALIMA PADMASARI
+Show  Overtime amount paid for DODO SIRAIT
+Show  Overtime amount paid for WIDYA NURDIYANTI
+Show  Overtime amount paid for LABUH TASWIR HARDIANSYAH
+Show  Overtime amount paid for SADINA UMI NASYIDAH
+Show  Overtime amount paid for PATRICIA ANGGRAINI
+Show  Overtime amount paid for JANE LAKSITA M.PD
+Show  Overtime amount paid for WAHYU WARSA SIRAIT
+Show  Overtime amount paid for TANTRI LAILASARI S.E.
+Show  Overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD
+Show  Overtime amount paid for TITIN WIDIASTUTI
+Show  Overtime amount paid for EMAN PRASASTA
+Show  Overtime amount paid for AKARSANA FIRMANSYAH
+Show  Overtime amount paid for KARYA MARPAUNG
+Show  Overtime amount paid for USYI ILSA USADA
+Show  Overtime amount paid for ZAMIRA KEISHA SURYATMI
+Show  Overtime amount paid for DIMAS SIHOTANG
+Show  Overtime amount paid for DIAN FARIDA
+Show  Overtime amount paid for DEWI PADMASARI S.T.
+Show  Overtime amount paid for RADEN GANDI WIBISONO M.PD
+Show  Overtime amount paid for KARIMAH HALIMAH
+Show  Overtime amount paid for RAHAYU WIJAYANTI
+Show  Overtime amount paid for SHAKILA PRASTUTI
+Show  Overtime amount paid for HASNA PUDJIASTUTI
+Show  Overtime amount paid for SATYA HIDAYANTO
+Show  Overtime amount paid for GILANG MEGANTARA S.E.
+Show  Overtime amount paid for TARI HASSANAH S.IP
+Show  Overtime amount paid for SALSABILA NURDIYANTI
+Show  Overtime amount paid for TAUFIK MARYADI
+Show  Overtime amount paid for ELVINA NASYIDAH S.PT
+Show  Overtime amount paid for PRABAWA DACIN KUSWOYO
+Show  Overtime amount paid for PAIMAN MANULLANG
+Show  Overtime amount paid for JARWI SITOMPUL S.KOM
+Show  Overtime amount paid for GARA PRAKASA
+Show  Overtime amount paid for GALAR PRASETYO
+Show  Overtime amount paid for NADIA WULANDARI
+Show  Overtime amount paid for TITI ELISA LAILASARI S.KOM
+Show  Overtime amount paid for AURORA SAFITRI M.TI.
+Show  Overtime amount paid for UDA DARU GUNARTO S.PSI
+Show  Overtime amount paid for SABRINA HALIMAH
+Show  Overtime amount paid for ADIKA WALUYO
+Show  Overtime amount paid for ULI ANA MARYATI S.FARM
+Show  Overtime amount paid for SAKURA UTAMI
+Show  Overtime amount paid for TEGUH SIHOMBING
+Show  Overtime amount paid for CAYADI LATUPONO S.PD
+Show  Overtime amount paid for RINA YESSI WULANDARI S.T.
+Show  Overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM
+Show  Overtime amount paid for VIVI YULIARTI S.I.KOM
+Show  Overtime amount paid for NARADI TAMBA S.PSI
+Show  Overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM
+Show  Overtime amount paid for NASIM MANULLANG
+Show  Overtime amount paid for EMONG ANGGRIAWAN
+Show  Overtime amount paid for CENGKAL GARDA SIREGAR
+Show  Overtime amount paid for PUSPA PRATIWI
+Show  Overtime amount paid for CAWISADI PANGESTU
+Show  Overtime amount paid for JULIA PALASTRI
+Show  Overtime amount paid for FARAH WULANDARI S.PSI
+Show  Overtime amount paid for VIMAN NAPITUPULU
+Show  Overtime amount paid for SALSABILA NAMAGA S.E.I
+Show  Overtime amount paid for TALIA SUDIATI M.M.
+Show  Overtime amount paid for ENDAH KUSMAWATI
+Show  Overtime amount paid for HARSAYA PRATAMA
+Show  Overtime amount paid for DARMANTO PANGESTU S.E.
+Show  Overtime amount paid for TITIN MELANI
+Show  Overtime amount paid for HALIMA HILDA WIJAYANTI M.AK
+Show  Overtime amount paid for MAIDA LESTARI
+Show  Overtime amount paid for KARIMAN TAMBA
+Show  Overtime amount paid for EVA USAMAH
+Show  Overtime amount paid for YULIANA ASTUTI
+Show  Overtime amount paid for GATOT MEGANTARA
+Show  Overtime amount paid for LUIS WIBOWO
+Show  Overtime amount paid for HARTANA SIRAIT
+Show  Overtime amount paid for NATALIA ASTUTI
+Show  Overtime amount paid for SARI ILSA MARYATI
+Show  Overtime amount paid for TANTRI WIJAYANTI
+Show  Overtime amount paid for ANASTASIA NURDIYANTI
+Show  Overtime amount paid for PUJI SUSANTI
+Show  Overtime amount paid for KURNIA GUNAWAN
+Show  Overtime amount paid for CATURANGGA LASMANTO WINARNO
+Show  Overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM
+Show  Overtime amount paid for ULYA RIYANTI
+Show  Overtime amount paid for SALSABILA LESTARI
+Show  Overtime amount paid for INA OKTAVIANI
+Show  Overtime amount paid for ICHA RAHIMAH S.SOS
+Show  Overtime amount paid for USYI HASTUTI M.M.
+Show  Overtime amount paid for TITI ZELDA PRASTUTI
+Show  Overtime amount paid for SHANIA ARYANI
+Show  Overtime amount paid for KASUSRA SALAHUDIN M.AK
+Show  Overtime amount paid for DAGEL HARSANA RAMADAN
+Show  Overtime amount paid for KAREN OKTAVIANI
+Show  Overtime amount paid for ELLA RAHIMAH
+Show amount paid by employee name
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for January 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for Februray 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for March 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for April 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for May 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for June 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for July 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for August 2020
+Total overtime amount paid for ASMIANTO WARSA LAZUARDI M.KOM. for September 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for January 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for Februray 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for March 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for April 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for May 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for June 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for July 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for August 2020
+Total overtime amount paid for CATUR SIMANJUNTAK. for September 2020
+Total overtime amount paid for UMI WAHYUNI. for January 2020
+Total overtime amount paid for UMI WAHYUNI. for Februray 2020
+Total overtime amount paid for UMI WAHYUNI. for March 2020
+Total overtime amount paid for UMI WAHYUNI. for April 2020
+Total overtime amount paid for UMI WAHYUNI. for May 2020
+Total overtime amount paid for UMI WAHYUNI. for June 2020
+Total overtime amount paid for UMI WAHYUNI. for July 2020
+Total overtime amount paid for UMI WAHYUNI. for August 2020
+Total overtime amount paid for UMI WAHYUNI. for September 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for January 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for Februray 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for March 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for April 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for May 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for June 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for July 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for August 2020
+Total overtime amount paid for HAMIMA DALIMA LESTARI S.PD for September 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for January 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for Februray 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for March 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for April 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for May 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for June 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for July 2020
+Total overtime amount paid for PUSPA SYAHRINI ANDRIANI for August 2020
+Total overtime amount paid for  PUSPA SYAHRINI ANDRIANI for September 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for January 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for Februray 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for March 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for April 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for May 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for June 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for July 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for August 2020
+Total overtime amount paid for PATRICIA RAHMAWATI M.FARM for September 2020
+Total overtime amount paid for INTAN USADA for January 2020
+Total overtime amount paid for INTAN USADA for Februray 2020
+Total overtime amount paid for INTAN USADA for March 2020
+Total overtime amount paid for INTAN USADA for April 2020
+Total overtime amount paid for INTAN USADA for May 2020
+Total overtime amount paid for INTAN USADA for June 2020
+Total overtime amount paid for INTAN USADA for July 2020
+Total overtime amount paid for INTAN USADA for August 2020
+Total overtime amount paid for INTAN USADA for September 2020
+Total overtime amount paid for GALAK JANUAR for January 2020
+Total overtime amount paid for GALAK JANUAR for Februray 2020
+Total overtime amount paid for GALAK JANUAR for March 2020
+Total overtime amount paid for GALAK JANUAR for April 2020
+Total overtime amount paid for GALAK JANUAR for May 2020
+Total overtime amount paid for GALAK JANUAR for June 2020
+Total overtime amount paid for GALAK JANUAR for July 2020
+Total overtime amount paid for GALAK JANUAR for August 2020
+Total overtime amount paid for GALAK JANUAR for September 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for January 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for Februray 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for March 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for April 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for May 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for June 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for July 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for August 2020
+Total overtime amount paid for WINDA QORI LAKSMIWATI S.H. for September 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for January 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for Februray 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for March 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for April 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for May 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for June 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for July 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for August 2020
+Total overtime amount paid for PARDI JANUAR S.FARM for September 2020
+Total overtime amount paid for ANOM FIRGANTORO for January 2020
+Total overtime amount paid for ANOM FIRGANTORO for Februray 2020
+Total overtime amount paid for ANOM FIRGANTORO for March 2020
+Total overtime amount paid for ANOM FIRGANTORO for April 2020
+Total overtime amount paid for ANOM FIRGANTORO for May 2020
+Total overtime amount paid for ANOM FIRGANTORO for June 2020
+Total overtime amount paid for ANOM FIRGANTORO for July 2020
+Total overtime amount paid for ANOM FIRGANTORO for August 2020
+Total overtime amount paid for ANOM FIRGANTORO for September 2020
+Total overtime amount paid for JOKO MARYADI for January 2020
+Total overtime amount paid for JOKO MARYADI for Februray 2020
+Total overtime amount paid for JOKO MARYADI for March 2020
+Total overtime amount paid for JOKO MARYADI for April 2020
+Total overtime amount paid for JOKO MARYADI for May 2020
+Total overtime amount paid for JOKO MARYADI for June 2020
+Total overtime amount paid for JOKO MARYADI for July 2020
+Total overtime amount paid for JOKO MARYADI for August 2020
+Total overtime amount paid for JOKO MARYADI for September 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for January 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for Februray 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for March 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for April 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for May 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for June 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for July 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for August 2020
+Total overtime amount paid for RATNA RIYANTI M.TI. for September 2020
+Total overtime amount paid for DARIATI HAKIM for January 2020
+Total overtime amount paid for DARIATI HAKIM for Februray 2020
+Total overtime amount paid for DARIATI HAKIM for March 2020
+Total overtime amount paid for DARIATI HAKIM for April 2020
+Total overtime amount paid for DARIATI HAKIM for May 2020
+Total overtime amount paid for DARIATI HAKIM for June 2020
+Total overtime amount paid for DARIATI HAKIM for July 2020
+Total overtime amount paid for DARIATI HAKIM for August 2020
+Total overtime amount paid for DARIATI HAKIM for September 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for January 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for Februray 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for March 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for April 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for May 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for June 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for July 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for August 2020
+Total overtime amount paid for USYI VANESA AGUSTINA for September 2020
+Total overtime amount paid for KEZIA PERMATA for January 2020
+Total overtime amount paid for KEZIA PERMATA for Februray 2020
+Total overtime amount paid for KEZIA PERMATA for March 2020
+Total overtime amount paid for KEZIA PERMATA for April 2020
+Total overtime amount paid for KEZIA PERMATA for May 2020
+Total overtime amount paid for KEZIA PERMATA for June 2020
+Total overtime amount paid for KEZIA PERMATA for July 2020
+Total overtime amount paid for KEZIA PERMATA for August 2020
+Total overtime amount paid for KEZIA PERMATA for September 2020
+Total overtime amount paid for SAKURA PADMASARI for January 2020
+Total overtime amount paid for SAKURA PADMASARI for Februray 2020
+Total overtime amount paid for SAKURA PADMASARI for March 2020
+Total overtime amount paid for SAKURA PADMASARI for April 2020
+Total overtime amount paid for SAKURA PADMASARI for May 2020
+Total overtime amount paid for SAKURA PADMASARI for June 2020
+Total overtime amount paid for SAKURA PADMASARI for July 2020
+Total overtime amount paid for SAKURA PADMASARI for August 2020
+Total overtime amount paid for SAKURA PADMASARI for September 2020
+Total overtime amount paid for YUNI MARDHIYAH for January 2020
+Total overtime amount paid for YUNI MARDHIYAH for Februray 2020
+Total overtime amount paid for YUNI MARDHIYAH for March 2020
+Total overtime amount paid for YUNI MARDHIYAH for April 2020
+Total overtime amount paid for YUNI MARDHIYAH for May 2020
+Total overtime amount paid for YUNI MARDHIYAH for June 2020
+Total overtime amount paid for YUNI MARDHIYAH for July 2020
+Total overtime amount paid for YUNI MARDHIYAH for August 2020
+Total overtime amount paid for YUNI MARDHIYAH for September 2020
+Total overtime amount paid for ALMIRA YULIANTI for January 2020
+Total overtime amount paid for ALMIRA YULIANTI for Februray 2020
+Total overtime amount paid for ALMIRA YULIANTI for March 2020
+Total overtime amount paid for ALMIRA YULIANTI for April 2020
+Total overtime amount paid for ALMIRA YULIANTI for May 2020
+Total overtime amount paid for ALMIRA YULIANTI for June 2020
+Total overtime amount paid for ALMIRA YULIANTI for July 2020
+Total overtime amount paid for ALMIRA YULIANTI for August 2020
+Total overtime amount paid for ALMIRA YULIANTI for September 2020
+Total overtime amount paid for QUEEN HARIYAH for January 2020
+Total overtime amount paid for QUEEN HARIYAH for Februray 2020
+Total overtime amount paid for QUEEN HARIYAH for March 2020
+Total overtime amount paid for QUEEN HARIYAH for April 2020
+Total overtime amount paid for QUEEN HARIYAH for May 2020
+Total overtime amount paid for QUEEN HARIYAH for June 2020
+Total overtime amount paid for QUEEN HARIYAH for July 2020
+Total overtime amount paid for QUEEN HARIYAH for August 2020
+Total overtime amount paid for QUEEN HARIYAH for September 2020
+Total overtime amount paid for JANE PADMASARI for January 2020
+Total overtime amount paid for JANE PADMASARI for Februray 2020
+Total overtime amount paid for JANE PADMASARI for March 2020
+Total overtime amount paid for JANE PADMASARI for April 2020
+Total overtime amount paid for JANE PADMASARI for May 2020
+Total overtime amount paid for JANE PADMASARI for June 2020
+Total overtime amount paid for JANE PADMASARI for July 2020
+Total overtime amount paid for JANE PADMASARI for August 2020
+Total overtime amount paid for JANE PADMASARI for September 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for January 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for Februray 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for March 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for April 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for May 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for June 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for July 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for August 2020
+Total overtime amount paid for QORI WIDIASTUTI S.KOM for September 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for January 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for Februray 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for March 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for April 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for May 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for June 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for July 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for August 2020
+Total overtime amount paid for CALISTA DALIMA PADMASARI for September 2020
+Total overtime amount paid for DODO SIRAIT for January 2020
+Total overtime amount paid for DODO SIRAIT for Februray 2020
+Total overtime amount paid for DODO SIRAIT for March 2020
+Total overtime amount paid for DODO SIRAIT for April 2020
+Total overtime amount paid for DODO SIRAIT for May 2020
+Total overtime amount paid for DODO SIRAIT for June 2020
+Total overtime amount paid for DODO SIRAIT for July 2020
+Total overtime amount paid for DODO SIRAIT for August 2020
+Total overtime amount paid for DODO SIRAIT for September 2020
+Total overtime amount paid for WIDYA NURDIYANTI for January 2020
+Total overtime amount paid for WIDYA NURDIYANTI for Februray 2020
+Total overtime amount paid for WIDYA NURDIYANTI for March 2020
+Total overtime amount paid for WIDYA NURDIYANTI for April 2020
+Total overtime amount paid for WIDYA NURDIYANTI for May 2020
+Total overtime amount paid for WIDYA NURDIYANTI for June 2020
+Total overtime amount paid for WIDYA NURDIYANTI for July 2020
+Total overtime amount paid for WIDYA NURDIYANTI for August 2020
+Total overtime amount paid for WIDYA NURDIYANTI for September 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor January 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor Februray 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor March 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor April 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor May 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor June 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor July 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor August 2020
+Total overtime amount paid for LABUH TASWIR HARDIANSYAHfor September 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for January 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for Februray 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for March 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for April 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for May 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for June 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for July 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for August 2020
+Total overtime amount paid for SADINA UMI NASYIDAH for September 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for January 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for Februray 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for March 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for April 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for May 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for June 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for July 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for August 2020
+Total overtime amount paid for PATRICIA ANGGRAINI for September 2020
+Total overtime amount paid for JANE LAKSITA M.PD for January 2020
+Total overtime amount paid for JANE LAKSITA M.PD for Februray 2020
+Total overtime amount paid for JANE LAKSITA M.PD for March 2020
+Total overtime amount paid for JANE LAKSITA M.PD for April 2020
+Total overtime amount paid for JANE LAKSITA M.PD for May 2020
+Total overtime amount paid for JANE LAKSITA M.PD for June 2020
+Total overtime amount paid for JANE LAKSITA M.PD for July 2020
+Total overtime amount paid for JANE LAKSITA M.PD for August 2020
+Total overtime amount paid for JANE LAKSITA M.PD for September 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for January 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for Februray 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for March 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for April 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for May 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for June 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for July 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for August 2020
+Total overtime amount paid for WAHYU WARSA SIRAIT for September 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for January 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for Februray 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for March 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for April 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for May 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for June 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for July 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for August 2020
+Total overtime amount paid for TANTRI LAILASARI S.E. for September 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for January 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for Februray 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for March 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for April 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for May 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for June 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for July 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for August 2020
+Total overtime amount paid for BAGIYA CAKRAWALA THAMRIN M.PD for September 2020
+Total overtime amount paid for TITIN WIDIASTUTI for January 2020
+Total overtime amount paid for TITIN WIDIASTUTI for Februray 2020
+Total overtime amount paid for TITIN WIDIASTUTI for March 2020
+Total overtime amount paid for TITIN WIDIASTUTI for April 2020
+Total overtime amount paid for TITIN WIDIASTUTI for May 2020
+Total overtime amount paid for TITIN WIDIASTUTI for June 2020
+Total overtime amount paid for TITIN WIDIASTUTI for July 2020
+Total overtime amount paid for TITIN WIDIASTUTI for August 2020
+Total overtime amount paid for TITIN WIDIASTUTI for September 2020
+Total overtime amount paid for EMAN PRASASTA for January 2020
+Total overtime amount paid for EMAN PRASASTA for Februray 2020
+Total overtime amount paid for EMAN PRASASTA for March 2020
+Total overtime amount paid for EMAN PRASASTA for April 2020
+Total overtime amount paid for EMAN PRASASTA for May 2020
+Total overtime amount paid for EMAN PRASASTA for June 2020
+Total overtime amount paid for EMAN PRASASTA for July 2020
+Total overtime amount paid for EMAN PRASASTA for August 2020
+Total overtime amount paid for EMAN PRASASTA for September 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for January 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for Februray 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for March 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for April 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for May 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for June 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for July 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for August 2020
+Total overtime amount paid for AKARSANA FIRMANSYAH for September 2020
+Total overtime amount paid for KARYA MARPAUNG for January 2020
+Total overtime amount paid for KARYA MARPAUNG for Februray 2020
+Total overtime amount paid for KARYA MARPAUNG for March 2020
+Total overtime amount paid for KARYA MARPAUNG for April 2020
+Total overtime amount paid for KARYA MARPAUNG for May 2020
+Total overtime amount paid for KARYA MARPAUNG for June 2020
+Total overtime amount paid for KARYA MARPAUNG for July 2020
+Total overtime amount paid for KARYA MARPAUNG for August 2020
+Total overtime amount paid for KARYA MARPAUNG for September 2020
+Total overtime amount paid for USYI ILSA USADA for January 2020
+Total overtime amount paid for USYI ILSA USADA for Februray 2020
+Total overtime amount paid for USYI ILSA USADA for March 2020
+Total overtime amount paid for USYI ILSA USADA for April 2020
+Total overtime amount paid for USYI ILSA USADA for May 2020
+Total overtime amount paid for USYI ILSA USADA for June 2020
+Total overtime amount paid for USYI ILSA USADA for July 2020
+Total overtime amount paid for USYI ILSA USADA for August 2020
+Total overtime amount paid for USYI ILSA USADA for September 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for January 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for Februray 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for March 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for April 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for May 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for June 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for July 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for August 2020
+Total overtime amount paid for ZAMIRA KEISHA SURYATMI for September 2020
+Total overtime amount paid for DIMAS SIHOTANG for January 2020
+Total overtime amount paid for DIMAS SIHOTANG for Februray 2020
+Total overtime amount paid for DIMAS SIHOTANG for March 2020
+Total overtime amount paid for DIMAS SIHOTANG for April 2020
+Total overtime amount paid for DIMAS SIHOTANG for May 2020
+Total overtime amount paid for DIMAS SIHOTANG for June 2020
+Total overtime amount paid for DIMAS SIHOTANG for July 2020
+Total overtime amount paid for DIMAS SIHOTANG for August 2020
+Total overtime amount paid for DIMAS SIHOTANG for September 2020
+Total overtime amount paid for DIAN FARIDA for January 2020
+Total overtime amount paid for DIAN FARIDA for Februray 2020
+Total overtime amount paid for DIAN FARIDA for March 2020
+Total overtime amount paid for DIAN FARIDA for April 2020
+Total overtime amount paid for DIAN FARIDA for May 2020
+Total overtime amount paid for DIAN FARIDA for June 2020
+Total overtime amount paid for DIAN FARIDA for July 2020
+Total overtime amount paid for DIAN FARIDA for August 2020
+Total overtime amount paid for DIAN FARIDA for September 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for January 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for Februray 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for March 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for April 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for May 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for June 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for July 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for August 2020
+Total overtime amount paid for DEWI PADMASARI S.T. for September 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for January 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for Februray 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for March 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for April 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for May 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for June 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for July 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for August 2020
+Total overtime amount paid for RADEN GANDI WIBISONO M.PD for September 2020
+Total overtime amount paid for KARIMAH HALIMAH for January 2020
+Total overtime amount paid for KARIMAH HALIMAH for Februray 2020
+Total overtime amount paid for KARIMAH HALIMAH for March 2020
+Total overtime amount paid for KARIMAH HALIMAH for April 2020
+Total overtime amount paid for KARIMAH HALIMAH for May 2020
+Total overtime amount paid for KARIMAH HALIMAH for June 2020
+Total overtime amount paid for KARIMAH HALIMAH for July 2020
+Total overtime amount paid for KARIMAH HALIMAH for August 2020
+Total overtime amount paid for KARIMAH HALIMAH for September 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for January 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for Februray 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for March 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for April 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for May 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for June 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for July 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for August 2020
+Total overtime amount paid for RAHAYU WIJAYANTI for September 2020
+Total overtime amount paid for SHAKILA PRASTUTI for January 2020
+Total overtime amount paid for SHAKILA PRASTUTI for Februray 2020
+Total overtime amount paid for SHAKILA PRASTUTI for March 2020
+Total overtime amount paid for SHAKILA PRASTUTI for April 2020
+Total overtime amount paid for SHAKILA PRASTUTI for May 2020
+Total overtime amount paid for SHAKILA PRASTUTI for June 2020
+Total overtime amount paid for SHAKILA PRASTUTI for July 2020
+Total overtime amount paid for SHAKILA PRASTUTI for August 2020
+Total overtime amount paid for SHAKILA PRASTUTI for September 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for January 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for Februray 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for March 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for April 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for May 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for June 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for July 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for August 2020
+Total overtime amount paid for HASNA PUDJIASTUTI for September 2020
+Total overtime amount paid for SATYA HIDAYANTO for January 2020
+Total overtime amount paid for SATYA HIDAYANTO for Februray 2020
+Total overtime amount paid for SATYA HIDAYANTO for March 2020
+Total overtime amount paid for SATYA HIDAYANTO for April 2020
+Total overtime amount paid for SATYA HIDAYANTO for May 2020
+Total overtime amount paid for SATYA HIDAYANTO for June 2020
+Total overtime amount paid for SATYA HIDAYANTO for July 2020
+Total overtime amount paid for SATYA HIDAYANTO for August 2020
+Total overtime amount paid for SATYA HIDAYANTO for September 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for January 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for Februray 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for March 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for April 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for May 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for June 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for July 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for August 2020
+Total overtime amount paid for GILANG MEGANTARA S.E. for September 2020
+Total overtime amount paid for TARI HASSANAH S.IP for January 2020
+Total overtime amount paid for TARI HASSANAH S.IP for Februray 2020
+Total overtime amount paid for TARI HASSANAH S.IP for March 2020
+Total overtime amount paid for TARI HASSANAH S.IP for April 2020
+Total overtime amount paid for TARI HASSANAH S.IP for May 2020
+Total overtime amount paid for TARI HASSANAH S.IP for June 2020
+Total overtime amount paid for TARI HASSANAH S.IP for July 2020
+Total overtime amount paid for TARI HASSANAH S.IP for August 2020
+Total overtime amount paid for TARI HASSANAH S.IP for September 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for January 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for Februray 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for March 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for April 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for May 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for June 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for July 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for August 2020
+Total overtime amount paid for SALSABILA NURDIYANTI for September 2020
+Total overtime amount paid for TAUFIK MARYADI for January 2020
+Total overtime amount paid for TAUFIK MARYADI for Februray 2020
+Total overtime amount paid for TAUFIK MARYADI for March 2020
+Total overtime amount paid for TAUFIK MARYADI for April 2020
+Total overtime amount paid for TAUFIK MARYADI for May 2020
+Total overtime amount paid for TAUFIK MARYADI for June 2020
+Total overtime amount paid for TAUFIK MARYADI for July 2020
+Total overtime amount paid for TAUFIK MARYADI for August 2020
+Total overtime amount paid for TAUFIK MARYADI for September 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for January 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for Februray 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for March 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for April 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for May 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for June 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for July 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for August 2020
+Total overtime amount paid for ELVINA NASYIDAH S.PT for September 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for January 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for Februray 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for March 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for April 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for May 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for June 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for July 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for August 2020
+Total overtime amount paid for PRABAWA DACIN KUSWOYO for September 2020
+Total overtime amount paid for PAIMAN MANULLANG for January 2020
+Total overtime amount paid for PAIMAN MANULLANG for Februray 2020
+Total overtime amount paid for PAIMAN MANULLANG for March 2020
+Total overtime amount paid for PAIMAN MANULLANG for April 2020
+Total overtime amount paid for PAIMAN MANULLANG for May 2020
+Total overtime amount paid for PAIMAN MANULLANG for June 2020
+Total overtime amount paid for PAIMAN MANULLANG for July 2020
+Total overtime amount paid for PAIMAN MANULLANG for August 2020
+Total overtime amount paid for PAIMAN MANULLANG for September 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for January 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for Februray 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for March 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for April 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for May 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for June 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for July 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for August 2020
+Total overtime amount paid for JARWI SITOMPUL S.KOM for September 2020
+Total overtime amount paid for GARA PRAKASA for January 2020
+Total overtime amount paid for GARA PRAKASA for Februray 2020
+Total overtime amount paid for GARA PRAKASA for March 2020
+Total overtime amount paid for GARA PRAKASA for April 2020
+Total overtime amount paid for GARA PRAKASA for May 2020
+Total overtime amount paid for GARA PRAKASA for June 2020
+Total overtime amount paid for GARA PRAKASA for July 2020
+Total overtime amount paid for GARA PRAKASA for August 2020
+Total overtime amount paid for GARA PRAKASA for September 2020
+Total overtime amount paid for GALAR PRASETYO for January 2020
+Total overtime amount paid for GALAR PRASETYO for Februray 2020
+Total overtime amount paid for GALAR PRASETYO for March 2020
+Total overtime amount paid for GALAR PRASETYO for April 2020
+Total overtime amount paid for GALAR PRASETYO for May 2020
+Total overtime amount paid for GALAR PRASETYO for June 2020
+Total overtime amount paid for GALAR PRASETYO for July 2020
+Total overtime amount paid for GALAR PRASETYO for August 2020
+Total overtime amount paid for GALAR PRASETYO for September 2020
+Total overtime amount paid for NADIA WULANDARI for January 2020
+Total overtime amount paid for NADIA WULANDARI for Februray 2020
+Total overtime amount paid for NADIA WULANDARI for March 2020
+Total overtime amount paid for NADIA WULANDARI for April 2020
+Total overtime amount paid for NADIA WULANDARI for May 2020
+Total overtime amount paid for NADIA WULANDARI for June 2020
+Total overtime amount paid for NADIA WULANDARI for July 2020
+Total overtime amount paid for NADIA WULANDARI for August 2020
+Total overtime amount paid for NADIA WULANDARI for September 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for January 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for Februray 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for March 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for April 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for May 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for June 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for July 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for August 2020
+Total overtime amount paid for TITI ELISA LAILASARI S.KOM for September 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for January 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for Februray 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for March 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for April 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for May 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for June 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for July 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for August 2020
+Total overtime amount paid for AURORA SAFITRI M.TI. for September 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for January 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for Februray 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for March 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for April 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for May 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for June 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for July 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for August 2020
+Total overtime amount paid for UDA DARU GUNARTO S.PSI for September 2020
+Total overtime amount paid for SABRINA HALIMAH for January 2020
+Total overtime amount paid for SABRINA HALIMAH for Februray 2020
+Total overtime amount paid for SABRINA HALIMAH for March 2020
+Total overtime amount paid for SABRINA HALIMAH for April 2020
+Total overtime amount paid for SABRINA HALIMAH for May 2020
+Total overtime amount paid for SABRINA HALIMAH for June 2020
+Total overtime amount paid for SABRINA HALIMAH for July 2020
+Total overtime amount paid for SABRINA HALIMAH for August 2020
+Total overtime amount paid for SABRINA HALIMAH for September 2020
+Total overtime amount paid for ADIKA WALUYO for January 2020
+Total overtime amount paid for ADIKA WALUYO for Februray 2020
+Total overtime amount paid for ADIKA WALUYO for March 2020
+Total overtime amount paid for ADIKA WALUYO for April 2020
+Total overtime amount paid for ADIKA WALUYO for May 2020
+Total overtime amount paid for ADIKA WALUYO for June 2020
+Total overtime amount paid for ADIKA WALUYO for July 2020
+Total overtime amount paid for ADIKA WALUYO for August 2020
+Total overtime amount paid for ADIKA WALUYO for September 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for January 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for Februray 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for March 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for April 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for May 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for June 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for July 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for August 2020
+Total overtime amount paid for ULI ANA MARYATI S.FARM for September 2020
+Total overtime amount paid for SAKURA UTAMI for January 2020
+Total overtime amount paid for SAKURA UTAMI for Februray 2020
+Total overtime amount paid for SAKURA UTAMI for March 2020
+Total overtime amount paid for SAKURA UTAMI for April 2020
+Total overtime amount paid for SAKURA UTAMI for May 2020
+Total overtime amount paid for SAKURA UTAMI for June 2020
+Total overtime amount paid for SAKURA UTAMI for July 2020
+Total overtime amount paid for SAKURA UTAMI for August 2020
+Total overtime amount paid for SAKURA UTAMI for September 2020
+Total overtime amount paid for TEGUH SIHOMBING for January 2020
+Total overtime amount paid for TEGUH SIHOMBING for Februray 2020
+Total overtime amount paid for TEGUH SIHOMBING for March 2020
+Total overtime amount paid for TEGUH SIHOMBING for April 2020
+Total overtime amount paid for TEGUH SIHOMBING for May 2020
+Total overtime amount paid for TEGUH SIHOMBING for June 2020
+Total overtime amount paid for TEGUH SIHOMBING for July 2020
+Total overtime amount paid for TEGUH SIHOMBING for August 2020
+Total overtime amount paid for TEGUH SIHOMBING for September 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for January 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for Februray 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for March 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for April 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for May 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for June 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for July 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for August 2020
+Total overtime amount paid for CAYADI LATUPONO S.PD for September 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T. for January 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T.  for Februray 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T. for March 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T.  for April 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T.  for May 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T.  for June 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T. for July 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T.  for August 2020
+Total overtime amount paid for RINA YESSI WULANDARI S.T. for September 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for January 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for Februray 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for March 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for April 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for May 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for June 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for July 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for August 2020
+Total overtime amount paid for ZALINDRA SABRINA NURDIYANTI S.FARM for September 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for January 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for Februray 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for March 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for April 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for May 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for June 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for July 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for August 2020
+Total overtime amount paid for VIVI YULIARTI S.I.KOM for September 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for January 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for Februray 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for March 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for April 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for May 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for June 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for July 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for August 2020
+Total overtime amount paid for NARADI TAMBA S.PSI for September 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for January 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for Februray 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for March 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for April 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for May 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for June 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for July 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for August 2020
+Total overtime amount paid for DARMANTO CEMPLUNK MARBUN M.FARM for September 2020
+Total overtime amount paid for NASIM MANULLANG for January 2020
+Total overtime amount paid for NASIM MANULLANG for Februray 2020
+Total overtime amount paid for NASIM MANULLANG for March 2020
+Total overtime amount paid for NASIM MANULLANG for April 2020
+Total overtime amount paid for NASIM MANULLANG for May 2020
+Total overtime amount paid for NASIM MANULLANG for June 2020
+Total overtime amount paid for NASIM MANULLANG for July 2020
+Total overtime amount paid for NASIM MANULLANG for August 2020
+Total overtime amount paid for NASIM MANULLANG for September 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for January 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for Februray 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for March 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for April 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for May 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for June 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for July 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for August 2020
+Total overtime amount paid for EMONG ANGGRIAWAN for September 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for January 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for Februray 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for March 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for April 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for May 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for June 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for July 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for August 2020
+Total overtime amount paid for CENGKAL GARDA SIREGAR for September 2020
+Total overtime amount paid for PUSPA PRATIWI for January 2020
+Total overtime amount paid for PUSPA PRATIWI for Februray 2020
+Total overtime amount paid for PUSPA PRATIWI for March 2020
+Total overtime amount paid for PUSPA PRATIWI for April 2020
+Total overtime amount paid for PUSPA PRATIWI for May 2020
+Total overtime amount paid for PUSPA PRATIWI for June 2020
+Total overtime amount paid for PUSPA PRATIWI for July 2020
+Total overtime amount paid for PUSPA PRATIWI for August 2020
+Total overtime amount paid for PUSPA PRATIWI for September 2020
+Total overtime amount paid for CAWISADI PANGESTU for January 2020
+Total overtime amount paid for CAWISADI PANGESTU for Februray 2020
+Total overtime amount paid for CAWISADI PANGESTU for March 2020
+Total overtime amount paid for CAWISADI PANGESTU for April 2020
+Total overtime amount paid for CAWISADI PANGESTU for May 2020
+Total overtime amount paid for CAWISADI PANGESTU for June 2020
+Total overtime amount paid for CAWISADI PANGESTU for July 2020
+Total overtime amount paid for CAWISADI PANGESTU for August 2020
+Total overtime amount paid for CAWISADI PANGESTU for September 2020
+Total overtime amount paid for JULIA PALASTRI for January 2020
+Total overtime amount paid for JULIA PALASTRI for Februray 2020
+Total overtime amount paid for JULIA PALASTRI for March 2020
+Total overtime amount paid for JULIA PALASTRI for April 2020
+Total overtime amount paid for JULIA PALASTRI for May 2020
+Total overtime amount paid for JULIA PALASTRI for June 2020
+Total overtime amount paid for JULIA PALASTRI for July 2020
+Total overtime amount paid for JULIA PALASTRI for August 2020
+Total overtime amount paid for JULIA PALASTRI for September 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for January 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for Februray 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for March 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for April 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for May 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for June 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for July 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for August 2020
+Total overtime amount paid for FARAH WULANDARI S.PSI for September 2020
+Total overtime amount paid for VIMAN NAPITUPULU for January 2020
+Total overtime amount paid for VIMAN NAPITUPULU for Februray 2020
+Total overtime amount paid for VIMAN NAPITUPULU for March 2020
+Total overtime amount paid for VIMAN NAPITUPULU for April 2020
+Total overtime amount paid for VIMAN NAPITUPULU for May 2020
+Total overtime amount paid for VIMAN NAPITUPULU for June 2020
+Total overtime amount paid for VIMAN NAPITUPULU for July 2020
+Total overtime amount paid for VIMAN NAPITUPULU for August 2020
+Total overtime amount paid for VIMAN NAPITUPULU for September 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for January 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for Februray 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for March 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for April 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for May 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for June 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for July 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for August 2020
+Total overtime amount paid for SALSABILA NAMAGA S.E.I for September 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for January 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for Februray 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for March 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for April 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for May 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for June 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for July 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for August 2020
+Total overtime amount paid for TALIA SUDIATI M.M. for September 2020
+Total overtime amount paid for ENDAH KUSMAWATI for January 2020
+Total overtime amount paid for ENDAH KUSMAWATI for Februray 2020
+Total overtime amount paid for ENDAH KUSMAWATI for March 2020
+Total overtime amount paid for ENDAH KUSMAWATI for April 2020
+Total overtime amount paid for ENDAH KUSMAWATI for May 2020
+Total overtime amount paid for ENDAH KUSMAWATI for June 2020
+Total overtime amount paid for ENDAH KUSMAWATI for July 2020
+Total overtime amount paid for ENDAH KUSMAWATI for August 2020
+Total overtime amount paid for ENDAH KUSMAWATI for September 2020
+Total overtime amount paid for HARSAYA PRATAMA for January 2020
+Total overtime amount paid for HARSAYA PRATAMA for Februray 2020
+Total overtime amount paid for HARSAYA PRATAMA for March 2020
+Total overtime amount paid for HARSAYA PRATAMA for April 2020
+Total overtime amount paid for HARSAYA PRATAMA for May 2020
+Total overtime amount paid for HARSAYA PRATAMA for June 2020
+Total overtime amount paid for HARSAYA PRATAMA for July 2020
+Total overtime amount paid for HARSAYA PRATAMA for August 2020
+Total overtime amount paid for HARSAYA PRATAMA for September 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for January 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for Februray 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for March 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for April 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for May 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for June 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for July 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for August 2020
+Total overtime amount paid for DARMANTO PANGESTU S.E. for September 2020
+Total overtime amount paid for TITIN MELANI for January 2020
+Total overtime amount paid for TITIN MELANI for Februray 2020
+Total overtime amount paid for TITIN MELANI for March 2020
+Total overtime amount paid for TITIN MELANI for April 2020
+Total overtime amount paid for TITIN MELANI for May 2020
+Total overtime amount paid for TITIN MELANI for June 2020
+Total overtime amount paid for TITIN MELANI for July 2020
+Total overtime amount paid for TITIN MELANI for August 2020
+Total overtime amount paid for TITIN MELANI for September 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for January 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for Februray 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for March 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for April 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for May 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for June 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for July 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for August 2020
+Total overtime amount paid for HALIMA HILDA WIJAYANTI M.AK for September 2020
+Total overtime amount paid for MAIDA LESTARI for January 2020
+Total overtime amount paid for MAIDA LESTARI for Februray 2020
+Total overtime amount paid for MAIDA LESTARI for March 2020
+Total overtime amount paid for MAIDA LESTARI for April 2020
+Total overtime amount paid for MAIDA LESTARI for May 2020
+Total overtime amount paid for MAIDA LESTARI for June 2020
+Total overtime amount paid for MAIDA LESTARI for July 2020
+Total overtime amount paid for MAIDA LESTARI for August 2020
+Total overtime amount paid for MAIDA LESTARI for September 2020
+Total overtime amount paid for KARIMAN TAMBA for January 2020
+Total overtime amount paid for KARIMAN TAMBA for Februray 2020
+Total overtime amount paid for KARIMAN TAMBA for March 2020
+Total overtime amount paid for KARIMAN TAMBA for April 2020
+Total overtime amount paid for KARIMAN TAMBA for May 2020
+Total overtime amount paid for KARIMAN TAMBA for June 2020
+Total overtime amount paid for KARIMAN TAMBA for July 2020
+Total overtime amount paid for KARIMAN TAMBA for August 2020
+Total overtime amount paid for KARIMAN TAMBA for September 2020
+Total overtime amount paid for EVA USAMAH for January 2020
+Total overtime amount paid for EVA USAMAH for Februray 2020
+Total overtime amount paid for EVA USAMAH for March 2020
+Total overtime amount paid for EVA USAMAH for April 2020
+Total overtime amount paid for EVA USAMAH for May 2020
+Total overtime amount paid for EVA USAMAH for June 2020
+Total overtime amount paid for EVA USAMAH for July 2020
+Total overtime amount paid for EVA USAMAH for August 2020
+Total overtime amount paid for EVA USAMAH for September 2020
+Total overtime amount paid for YULIANA ASTUTI for January 2020
+Total overtime amount paid for YULIANA ASTUTI for Februray 2020
+Total overtime amount paid for YULIANA ASTUTI for March 2020
+Total overtime amount paid for YULIANA ASTUTI for April 2020
+Total overtime amount paid for YULIANA ASTUTI for May 2020
+Total overtime amount paid for YULIANA ASTUTI for June 2020
+Total overtime amount paid for YULIANA ASTUTI for July 2020
+Total overtime amount paid for YULIANA ASTUTI for August 2020
+Total overtime amount paid for YULIANA ASTUTI for September 2020
+Total overtime amount paid for GATOT MEGANTARA for January 2020
+Total overtime amount paid for GATOT MEGANTARA for Februray 2020
+Total overtime amount paid for GATOT MEGANTARA for March 2020
+Total overtime amount paid for GATOT MEGANTARA for April 2020
+Total overtime amount paid for GATOT MEGANTARA for May 2020
+Total overtime amount paid for GATOT MEGANTARA for June 2020
+Total overtime amount paid for GATOT MEGANTARA for July 2020
+Total overtime amount paid for GATOT MEGANTARA for August 2020
+Total overtime amount paid for GATOT MEGANTARA for September 2020
+Total overtime amount paid for LUIS WIBOWO for January 2020
+Total overtime amount paid for LUIS WIBOWO for Februray 2020
+Total overtime amount paid for LUIS WIBOWO for March 2020
+Total overtime amount paid for LUIS WIBOWO for April 2020
+Total overtime amount paid for LUIS WIBOWO for May 2020
+Total overtime amount paid for LUIS WIBOWO for June 2020
+Total overtime amount paid for LUIS WIBOWO for July 2020
+Total overtime amount paid for LUIS WIBOWO for August 2020
+Total overtime amount paid for LUIS WIBOWO for September 2020
+Total overtime amount paid for HARTANA SIRAIT for January 2020
+Total overtime amount paid for HARTANA SIRAIT for Februray 2020
+Total overtime amount paid for HARTANA SIRAIT for March 2020
+Total overtime amount paid for HARTANA SIRAIT for April 2020
+Total overtime amount paid for HARTANA SIRAIT for May 2020
+Total overtime amount paid for HARTANA SIRAIT for June 2020
+Total overtime amount paid for HARTANA SIRAIT for July 2020
+Total overtime amount paid for HARTANA SIRAIT for August 2020
+Total overtime amount paid for HARTANA SIRAIT for September 2020
+Total overtime amount paid for NATALIA ASTUTI for January 2020
+Total overtime amount paid for NATALIA ASTUTI for Februray 2020
+Total overtime amount paid for NATALIA ASTUTI for March 2020
+Total overtime amount paid for NATALIA ASTUTI for April 2020
+Total overtime amount paid for NATALIA ASTUTI for May 2020
+Total overtime amount paid for NATALIA ASTUTI for June 2020
+Total overtime amount paid for NATALIA ASTUTI for July 2020
+Total overtime amount paid for NATALIA ASTUTI for August 2020
+Total overtime amount paid for NATALIA ASTUTI for September 2020
+Total overtime amount paid for SARI ILSA MARYATI for January 2020
+Total overtime amount paid for SARI ILSA MARYATI for Februray 2020
+Total overtime amount paid for SARI ILSA MARYATI for March 2020
+Total overtime amount paid for SARI ILSA MARYATI for April 2020
+Total overtime amount paid for SARI ILSA MARYATI for May 2020
+Total overtime amount paid for SARI ILSA MARYATI for June 2020
+Total overtime amount paid for SARI ILSA MARYATI for July 2020
+Total overtime amount paid for SARI ILSA MARYATI for August 2020
+Total overtime amount paid for SARI ILSA MARYATI for September 2020
+Total overtime amount paid for TANTRI WIJAYANTI for January 2020
+Total overtime amount paid for TANTRI WIJAYANTI for Februray 2020
+Total overtime amount paid for TANTRI WIJAYANTI for March 2020
+Total overtime amount paid for TANTRI WIJAYANTI for April 2020
+Total overtime amount paid for TANTRI WIJAYANTI for May 2020
+Total overtime amount paid for TANTRI WIJAYANTI for June 2020
+Total overtime amount paid for TANTRI WIJAYANTI for July 2020
+Total overtime amount paid for TANTRI WIJAYANTI for August 2020
+Total overtime amount paid for TANTRI WIJAYANTI for September 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for January 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for Februray 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for March 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for April 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for May 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for June 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for July 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for August 2020
+Total overtime amount paid for ANASTASIA NURDIYANTI for September 2020
+Total overtime amount paid for PUJI SUSANTI for January 2020
+Total overtime amount paid for PUJI SUSANTI for Februray 2020
+Total overtime amount paid for PUJI SUSANTI for March 2020
+Total overtime amount paid for PUJI SUSANTI for April 2020
+Total overtime amount paid for PUJI SUSANTI for May 2020
+Total overtime amount paid for PUJI SUSANTI for June 2020
+Total overtime amount paid for PUJI SUSANTI for July 2020
+Total overtime amount paid for PUJI SUSANTI for August 2020
+Total overtime amount paid for PUJI SUSANTI for September 2020
+Total overtime amount paid for KURNIA GUNAWAN for January 2020
+Total overtime amount paid for KURNIA GUNAWAN for Februray 2020
+Total overtime amount paid for KURNIA GUNAWAN for March 2020
+Total overtime amount paid for KURNIA GUNAWAN for April 2020
+Total overtime amount paid for KURNIA GUNAWAN for May 2020
+Total overtime amount paid for KURNIA GUNAWAN for June 2020
+Total overtime amount paid for KURNIA GUNAWAN for July 2020
+Total overtime amount paid for KURNIA GUNAWAN for August 2020
+Total overtime amount paid for KURNIA GUNAWAN for September 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for January 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for Februray 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for March 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for April 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for May 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for June 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for July 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for August 2020
+Total overtime amount paid for CATURANGGA LASMANTO WINARNO for September 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for January 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for Februray 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for March 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for April 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for May 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for June 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for July 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for August 2020
+Total overtime amount paid for GARAN BAHUWIRYA WINARNO M.FARM for September 2020
+Total overtime amount paid for ULYA RIYANTI for January 2020
+Total overtime amount paid for ULYA RIYANTI for Februray 2020
+Total overtime amount paid for ULYA RIYANTI for March 2020
+Total overtime amount paid for ULYA RIYANTI for April 2020
+Total overtime amount paid for ULYA RIYANTI for May 2020
+Total overtime amount paid for ULYA RIYANTI for June 2020
+Total overtime amount paid for ULYA RIYANTI for July 2020
+Total overtime amount paid for ULYA RIYANTI for August 2020
+Total overtime amount paid for ULYA RIYANTI for September 2020
+Total overtime amount paid for SALSABILA LESTARI for January 2020
+Total overtime amount paid for SALSABILA LESTARI for Februray 2020
+Total overtime amount paid for SALSABILA LESTARI for March 2020
+Total overtime amount paid for SALSABILA LESTARI for April 2020
+Total overtime amount paid for SALSABILA LESTARI for May 2020
+Total overtime amount paid for SALSABILA LESTARI for June 2020
+Total overtime amount paid for SALSABILA LESTARI for July 2020
+Total overtime amount paid for SALSABILA LESTARI for August 2020
+Total overtime amount paid for SALSABILA LESTARI for September 2020
+Total overtime amount paid for INA OKTAVIANI for January 2020
+Total overtime amount paid for INA OKTAVIANI for Februray 2020
+Total overtime amount paid for INA OKTAVIANI for March 2020
+Total overtime amount paid for INA OKTAVIANI for April 2020
+Total overtime amount paid for INA OKTAVIANI for May 2020
+Total overtime amount paid for INA OKTAVIANI for June 2020
+Total overtime amount paid for INA OKTAVIANI for July 2020
+Total overtime amount paid for INA OKTAVIANI for August 2020
+Total overtime amount paid for INA OKTAVIANI for September 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for January 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for Februray 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for March 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for April 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for May 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for June 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for July 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for August 2020
+Total overtime amount paid for ICHA RAHIMAH S.SOS for September 2020
+Total overtime amount paid for USYI HASTUTI M.M. for January 2020
+Total overtime amount paid for USYI HASTUTI M.M. for Februray 2020
+Total overtime amount paid for USYI HASTUTI M.M. for March 2020
+Total overtime amount paid for USYI HASTUTI M.M. for April 2020
+Total overtime amount paid for USYI HASTUTI M.M. for May 2020
+Total overtime amount paid for USYI HASTUTI M.M. for June 2020
+Total overtime amount paid for USYI HASTUTI M.M. for July 2020
+Total overtime amount paid for USYI HASTUTI M.M. for August 2020
+Total overtime amount paid for USYI HASTUTI M.M. for September 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for January 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for Februray 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for March 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for April 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for May 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for June 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for July 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for August 2020
+Total overtime amount paid for TITI ZELDA PRASTUTI for September 2020
+Total overtime amount paid for SHANIA ARYANI for January 2020
+Total overtime amount paid for SHANIA ARYANI for Februray 2020
+Total overtime amount paid for SHANIA ARYANI for March 2020
+Total overtime amount paid for SHANIA ARYANI for April 2020
+Total overtime amount paid for SHANIA ARYANI for May 2020
+Total overtime amount paid for SHANIA ARYANI for June 2020
+Total overtime amount paid for SHANIA ARYANI for July 2020
+Total overtime amount paid for SHANIA ARYANI for August 2020
+Total overtime amount paid for SHANIA ARYANI for September 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for January 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for Februray 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for March 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for April 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for May 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for June 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for July 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for August 2020
+Total overtime amount paid for KASUSRA SALAHUDIN M.AK for September 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for January 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for Februray 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for March 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for April 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for May 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for June 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for July 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for August 2020
+Total overtime amount paid for DAGEL HARSANA RAMADAN for September 2020
+Total overtime amount paid for KAREN OKTAVIANI for January 2020
+Total overtime amount paid for KAREN OKTAVIANI for Februray 2020
+Total overtime amount paid for KAREN OKTAVIANI for March 2020
+Total overtime amount paid for KAREN OKTAVIANI for April 2020
+Total overtime amount paid for KAREN OKTAVIANI for May 2020
+Total overtime amount paid for KAREN OKTAVIANI for June 2020
+Total overtime amount paid for KAREN OKTAVIANI for July 2020
+Total overtime amount paid for KAREN OKTAVIANI for August 2020
+Total overtime amount paid for KAREN OKTAVIANI for September 2020
+Total overtime amount paid for ELLA RAHIMAH for January 2020
+Total overtime amount paid for ELLA RAHIMAH for Februray 2020
+Total overtime amount paid for ELLA RAHIMAH for March 2020
+Total overtime amount paid for ELLA RAHIMAH for April 2020
+Total overtime amount paid for ELLA RAHIMAH for May 2020
+Total overtime amount paid for ELLA RAHIMAH for June 2020
+Total overtime amount paid for ELLA RAHIMAH for July 2020
+Total overtime amount paid for ELLA RAHIMAH for August 2020
+Total overtime amount paid for ELLA RAHIMAH for September 2020
+Total overtime paid by month(s)
+Show employee details by name including active/non-active
+Count of Employees by Status (active/resigned)
+Turnover rate by Businees Unit 1399
+Turnover rate by organization unit
+Turnover rate by Businees Unit 1312
+Turnover rate by Businees Unit 1330
+Turnover rate by Head Office
+Turnover rate by Beam Plant 1
+Turnover rate by Blast Furnace Division
+Turnover rate by Cost center number 3082
+Turnover rate by Cost center number 5011
+Turnover rate by Cost center number 5012
+Turnover rate by Cost center number 5014
+Turnover rate by Cost center number 5020
+Turnover rate by Cost center number 5021
+Turnover rate by Cost center number 5023
+Turnover rate by Cost center number 5024
+Turnover rate by Cost center number 5061
+Turnover rate by Cost center number 8010
+Turnover rate by Cost center number 3083
+Turnover rate by Cost center number 3084
+Turnover rate by Cost center number 3086
+Turnover rate by Cost center number 3300
+Turnover rate by Cost center number 3301
+Turnover rate by Cost center number 3309
+Turnover rate by Cost center number 3085
+Turnover rate by BP1 Production Dept
+Turnover rate by FSC Production Dept
+Turnover rate by PSC Production Dept
+Turnover rate by CRM Production Dept
+Turnover rate by Finance & Accounting Division
+Turnover rate by Head of HRGA
+Turnover rate by Talent Management
+Turnover rate by HR Administration Center
+Turnover rate by DWI Production Dept center
+Turnover rate by HR Human Development Dept center
+Turnover rate by Cost Center Name BP1 QA/QC Dept
+Turnover rate by Cost Center Name BP1 Warehouse Dept
+Turnover rate by Cost Center Name BP1 Mechanical Dept
+Turnover rate by Cost Center Name Blast Furnace Dept
+Turnover rate by Cost Center Name Blast Furnace Division
+Turnover rate by Cost Center Name Blast Furnace Div Office
+Turnover rate by Cost Center Name BP1 Electrical Dept
+Turnover rate by Jabatan name STAFF
+Turnover rate by Jabatan name MEMBER
+Turnover rate by Jabatan name STAFF
+Turnover rate by Jabatan name SUPERVISOR
+Turnover rate by Jabatan name MANAGER
+Turnover rate by Jabatan name LEADER
+Turnover rate by Jabatan name COORDINATOR
+Turnover rate by Jabatan name GENERAL MANAGER
+Turnover rate by Jabatan name DIREKTUR
+Turnover rate by Jabatan name Pjs PRESIDEN DIREKTUR
+Turnover rate by Jabtan
+Turnover rate by Position TRANSPORTATION & VEHICLE ASET
+Turnover rate by Position QC
+Turnover rate by Position WATER TREATMENT
+Turnover rate by Position MCD PROJECT
+Turnover rate by Position OPERATOR CRANE REWINDING I
+Turnover rate by Position LANGSIR
+Turnover rate by Position FIELD PIC GG1
+Turnover rate by Position FIELD PIC DIREKSI
+Turnover rate by Position WAREHOUSE BONGKAR,MUAT,LANGSIR DI GG2
+Turnover rate by Position FIELD PIC HOUSING
+Turnover rate by Position WAREHOUSE BONGKAR,MUAT,LANGSIR
+Turnover rate by Position HELPER BFD
+Turnover rate by Position QC SAMPLE CUTTING
+Turnover rate by Position WAREHOUSE
+Turnover rate by Position DELIVERY INSPECTOR
+Turnover rate by Position PLANT PERSONALIA
+Turnover rate by Position COMP & BENEFIT
+Turnover rate by Position CMS
+Turnover rate by Position OPERATOR CRANE 6 HIGH MILL
+Turnover rate by Position OPERATOR CRANE ASLITING
+Turnover rate by Position HELPER 
+Turnover rate by Position DEKSTOP, NETWORK, PRINTER, INFRASTRUKTUR SUPPORT & MAINTENANCE
+Turnover rate by Position HELPDESK
+Turnover rate by Position QC COOLING BED & STRAIGHTENING
+Turnover rate by Position FILE GAMBAR
+Turnover rate by Position SERIKAT PEKERJA
+Turnover rate by Position RECEPTIONIST
+Turnover rate by Position QC REPAIR
+Turnover rate by Position HEALTH ENVIRONMENT & SAFETY
+Turnover rate by Position SECURITY COMMUNITY RELATION
+Turnover rate by Position CCTV MAINTENANCE & SUPPORT
+Turnover rate by Position CHECKER
+Turnover rate by Position MEKANIK UMUM
+Turnover rate by Position ADMINISTRASI
+Turnover rate by Position QC AFTER STRAIGHTENING
+Turnover rate by Position DRAFTER
+Turnover rate by Position STRAIGHTENING
+Turnover rate by Position FIELD PIC CAFETARIA
+Turnover rate by Position QA ROLLING CAMPAIGN CHECKING
+Turnover rate by Position BUBUTAN BESAR
+Turnover rate by Position MUAT
+Turnover rate by Position ERP APLICATION DEVELOPMENT & SUPPORT (TECHNICAL)
+Turnover rate by Position HR ADMINISTRATION
+Turnover rate by Position PROPERTY MAINTENANCE & TRANSPORT
+Turnover rate by Position TALENT MANAGEMENT
+Turnover rate by Position BUSINESS PROCESS
+Turnover rate by Position WAREHOUSE ADMIN
+Turnover rate by Position RECRUITMENT
+Turnover rate by Position QA
+Turnover rate by Position MCD
+Turnover rate by Position SERVER,DATABASE, NETWORK ADMINISTRATION & SECURITY
+Turnover rate by Position APLICATION DEVELOPMENT & SUPPORT
+Turnover rate by Position PLANNING SUPERINTENDANT
+Turnover rate by Position SYSTEM ANALYS
+Turnover rate by Position INDUSTRIAL RELATIONS
+Turnover rate by Position HRGA PROJECT
+Turnover rate by Position PUBLIC RELATION
+Turnover rate by Position DATA ANALYS
+Turnover rate by Position BUSINESS ANALYSIS
+Turnover rate by Position CLUB HOUSE & CATERING
+Turnover rate by Position PERSONAL ASSISTANT
+Turnover rate by Position LAND MANAGEMENT
+Turnover rate by Position COORDINATOR ADMINISTRATION
+Turnover rate by Position FIELD PIC GG3
+Turnover rate by Position ARSITEK
+Turnover rate by Position ERP APLICATION DEVELOPMENT & SUPPORT (FUNCTIONAL)
+Turnover rate by Position SITE SUPERINTENDANT
+Turnover rate by Position ADMINISTRASI WAREHOUSE
+Turnover rate by Position PROJECT ADMINISTRATION
+Turnover rate by Position FINANCE ACCOUNTING
+Turnover rate by Position GRP
+Turnover rate by Position SALES MARKETING & SUPPLY CHAIN MANAGEMENT
+Turnover rate by Position 
+Turn-over rate of Male employees
+Turn-over rate of Female employees
+Turn-over rate by Gender 
+Show employees resigned by termination notes Mengundurkan Diri
+Show employees resigned by termination notes Perjanjian Kerja Berakhir
+Show employees resigned by termination notes Karyawan Pensiun Dini
+Show employees resigned by termination notes Karyawan Pensiun
+Show employees resigned by termination notes Null
+Show employees resigned by termination notes Gagal Masa Percobaan/Training
+Show employees resigned by termination notes
+Number of employees reigned for Mengundurkan Diri
+Number of employees reigned for Perjanjian Kerja Berakhir
+Number of employees reigned for Karyawan Pensiun Dini
+Number of employees reigned for Karyawan Pensiun
+Number of employees reigned for Null
+Number of employees reigned for Gagal Masa Percobaan/Training
+Number of employees reigned for a specific termination reason
+Names of employees reigned for Mengundurkan Diri
+Names of employees reigned for Perjanjian Kerja Berakhir
+Names of employees reigned for Karyawan Pensiun Dini
+Names of employees reigned for Karyawan Pensiun
+Names of employees reigned for Null
+Names of employees reigned for Gagal Masa Percobaan/Training
+Names of employees resigned for a specific termination reason 
+Show max overtime hours by Ors Description Direktur PT. GRP
+Show max overtime hours by Ors Description Filing Gambar 
+Show max overtime hours by Ors Description GA GRP
+Show max overtime hours by Ors Description HRGA
+Show max overtime hours by Ors Description Human Capital Development
+Show max overtime hours by Ors Description Main Contractor Divisi
+Show max overtime hours by Ors Description Receptionis
+Show max overtime hours by Ors Description Water Treatment 
+Show max overtime hours by Ors Description MIS GRP
+Show max overtime hours by Ors Description BP1 QC
+Show max overtime hours by Ors Description CMS GRP
+Show max overtime hours by Ors Description BP1 WAREHOUSE
+Show max overtime hours by Ors Structure 13FNA_FNA_
+Show max overtime hours by Ors Structure 13KTR_BFD
+Show max overtime hours by Ors Structure 13PUK_SPM_
+Show max overtime hours by Ors Structure 13GRP_MIS_
+Show max overtime hours by ors_structure
+Show min overtime hours by Ors Description Direktur PT. GRP
+Show min overtime hours by Ors Description Filing Gambar 
+Show min overtime hours by Ors Description GA GRP
+Show min overtime hours by Ors Description HRGA
+Show min overtime hours by Ors Description Human Capital Development
+Show min overtime hours by Ors Description Main Contractor Divisi
+Show min overtime hours by Ors Description Receptionis
+Show min overtime hours by Ors Description Water Treatment 
+Show min overtime hours by Ors Description MIS GRP
+Show min overtime hours by Ors Description BP1 QC
+Show min overtime hours by Ors Description CMS GRP
+Show min overtime hours by Ors Description BP1 WAREHOUSE
+Show min overtime hours by Ors Structure 13FNA_FNA_
+Show min overtime hours by Ors Structure 13KTR_BFD
+Show min overtime hours by Ors Structure 13PUK_SPM_
+Show min overtime hours by Ors Structure 13GRP_MIS_
+Show min overtime hours by ors_structure
+Show amount paid due to overtime by Ors Description Direktur PT. GRP
+Show amount paid due to overtime by Ors Description Filing Gambar 
+Show amount paid due to overtime by Ors Description GA GRP
+Show amount paid due to overtime by Ors Description HRGA
+Show amount paid due to overtime by Ors Description Human Capital Development
+Show amount paid due to overtime by Ors Description Main Contractor Divisi
+Show amount paid due to overtime by Ors Description Receptionis
+Show amount paid due to overtime by Ors Description Water Treatment 
+Show amount paid due to overtime by Ors Description MIS GRP
+Show amount paid due to overtime by Ors Description BP1 QC
+Show amount paid due to overtime by Ors Description CMS GRP
+Show amount paid due to overtime by Ors Description BP1 WAREHOUSE
+Show amount paid due to overtime by Ors Structure 13FNA_FNA_
+Show amount paid due to overtime by Ors Structure 13KTR_BFD
+Show amount paid due to overtime by Ors Structure 13PUK_SPM_
+Show amount paid due to overtime by Ors Structure 13GRP_MIS_
+Show amount paid due to overtime by ors_structure
+finance_pro_frontend

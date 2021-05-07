@@ -1,0 +1,32 @@
+{
+  "name": "reactbot",
+  "version": "1.0.0",
+  "description": "react bot for webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dialogflow": "^0.14.1",
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1",
+    "firebase": "^7.19.0",
+    "image-thumbnail": "^1.0.13",
+    "mssql": "^6.2.3",
+    "nodemon": "^2.0.4",
+    "pg": "^7.18.2",
+    "redis": "^3.0.2",
+    "socket.io": "^3.1.2",
+    "structjson": "^1.0.1",
+    "universal-cookie": "^4.0.3",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  }
+}

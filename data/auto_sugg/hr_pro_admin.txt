@@ -1,0 +1,342 @@
+How many employees were present on 21st September 2020
+How many employees were present on 22nd September 2020
+How many employees were present on 23rd September 2020
+How many employees were present on 24th September 2020
+How many employees were present on 25th September 2020
+How many employees were present on 26th September 2020
+How many employees were present on 27th September 2020
+How many employees were present on 28th September 2020
+How many employees were present on 29th September 2020
+How many employees were present on 30th September 2020
+How many employees were present on 1st October 2020
+How many employees were present on 2nd October 2020
+How many employees were presenton 3rd October 2020
+How many employees were present on 4th October 2020
+How many employees were present on  5th October 2020
+How many employees were present on 6th October 2020
+How many employees were present on 7th October 2020
+How many employees were present on 8th October 2020
+How many employees were present on 9th October 2020
+How many employees were present on 10th October 2020
+How many employees were present on 11th October 2020
+How many employees were present on 12th October 2020
+How many employees were present on 13th October 2020
+How many employees were present on 14th October 2020
+How many employees were present on 15th October 2020
+How many employees were present on 16th October 2020
+How many employees were present on 17th October 2020
+How many employees were present on 18th October 2020
+How many employees were present on 19th October 2020
+How many employees were present on 20th October 2020
+How many employees were present on 21st Sep 2020
+How many employees were present on 22nd Sep 2020
+How many employees were present on 23rd Sep 2020
+How many employees were present on 24th Sep 2020
+How many employees were present on 25th Sep 2020
+How many employees were present on 26th Sep 2020
+How many employees were present on 27th Sep 2020
+How many employees were present on 28th Sep 2020
+How many employees were present on 29th Sep 2020
+How many employees were present on 30th Sep 2020
+How many employees were present on 1st Oct 2020
+How many employees were present on 2nd Oct 2020
+How many employees were present on 3rd Oct 2020
+How many employees were present on 4th Oct 2020
+How many employees were present on 5th Oct 2020
+How many employees were present on 6th Oct 2020
+How many employees were present on 7th Oct 2020
+How many employees were present on 8th Oct 2020
+How many employees were present on 9th Oct 2020
+How many employees were present on 10th Oct 2020
+How many employees were present on 11th Oct 2020
+How many employees were present on 12th Oct 2020
+How many employees were present on 13th Oct 2020
+How many employees were present on 14th Oct 2020
+How many employees were present on 15th Oct 2020
+How many employees were present on 16th Oct 2020
+How many employees were present on 17th Oct 2020
+How many employees were present on 18th Oct 2020
+How many employees were present on 19th Oct 2020
+How many employees were present on 20th Oct 2020
+How many employees were present on 21/09/2020
+How many employees were present on 22/09/2020
+How many employees were present on 23/09/2020
+How many employees were present on 24/09/2020
+How many employees were present on 25/09/2020
+How many employees were present on 26/09/2020
+How many employees were present on 27/09/2020
+How many employees were present on 28/09/2020
+How many employees were present on 29/09/2020
+How many employees were present on 30/09/2020
+How many employees were present on 01/10/2020
+How many employees were present on 02/10/2020
+How many employees were present on 03/10/2020
+How many employees were present on 04/10/2020
+How many employees were present on 05/10/2020
+How many employees were present on 06/10/2020
+How many employees were present on 07/10/2020
+How many employees were present on 08/10/2020
+How many employees were present on 09/10/2020
+How many employees were present on 10/10/2020
+How many employees were present on 11/10/2020
+How many employees were present on 12/10/2020
+How many employees were present on 13/10/2020
+How many employees were present on 14/10/2020
+How many employees were present on 15/10/2020
+How many employees were present on 16/10/2020
+How many employees were present on 17/10/2020
+How many employees were present on 18/10/2020
+How many employees were present on 19/10/2020
+How many employees were present on 20/10/2020
+Please show how many employees were present on 21st September 2020
+Please show how many employees were present on 22nd September 2020
+Please show how many employees were present on 23rd September 2020
+Please show how many employees were present on 24th September 2020
+Please show how many employees were present on 25th September 2020
+Please show how many employees were present on 26th September 2020
+Please show how many employees were present on 27th September 2020
+Please show how many employees were present on 28th September 2020
+Please show how many employees were present on 29th September 2020
+Please show how many employees were present on 30th September 2020
+Please show how many employees were present on 1st October 2020
+Please show how many employees were present on 2nd October 2020
+Please show how many employees were present on 3rd October 2020
+Please show how many employees were present on 4th October 2020
+Please show how many employees were present on 5th October 2020
+Please show how many employees were present on 6th October 2020
+Please show how many employees were present on 7th October 2020
+Please show how many employees were present on 8th October 2020
+Please show how many employees were present on 9th October 2020
+Please show how many employees were present on 10th October 2020
+Please show how many employees were present on 11th October 2020
+Please show how many employees were present on 12th October 2020
+Please show how many employees were present on 13th October 2020
+Please show how many employees were present on 14th October 2020
+Please show how many employees were present on 15th October 2020
+Please show how many employees were present on 16th October 2020
+Please show how many employees were present on 17th October 2020
+Please show how many employees were present on 18th October 2020
+Please show how many employees were present on 19th October 2020
+Please show how many employees were present on 20th October 2020
+Please show how many employees were present on 21st Sep 2020
+Please show how many employees were present on 22nd Sep 2020
+Please show how many employees were present on 23rd Sep 2020
+Please show how many employees were present on 24th Sep 2020
+Please show how many employees were present on 25th Sep 2020
+Please show how many employees were present on 26th Sep 2020
+Please show how many employees were present on 27th Sep 2020
+Please show how many employees were present on 28th Sep 2020
+Please show how many employees were present on 29th Sep 2020
+Please show how many employees were present on 30th Sep 2020
+Please show how many employees were present on 1st Oct 2020
+Please show how many employees were present on 2nd Oct 2020
+Please show how many employees were present on 3rd Oct 2020
+Please show how many employees were present on 4th Oct 2020
+Please show how many employees were present on 5th Oct 2020
+Please show how many employees were present on 6th Oct 2020
+Please show how many employees were present on 7th Oct 2020
+Please show how many employees were present on 8th Oct 2020
+Please show how many employees were present on 9th Oct 2020
+Please show how many employees were present on 10th Oct 2020
+Please show how many employees were present on 11th Oct 2020
+Please show how many employees were present on 12th Oct 2020
+Please show how many employees were present on 13th Oct 2020
+Please show how many employees were present on 14th Oct 2020
+Please show how many employees were present on 15th Oct 2020
+Please show how many employees were present on 16th Oct 2020
+Please show how many employees were present on 17th Oct 2020
+Please show how many employees were present on 18th Oct 2020
+Please show how many employees were present on 19th Oct 2020
+Please show how many employees were present on 20th Oct 2020
+Please show how many employees were present on 21/09/2020
+Please show how many employees were present on 22/09/2020
+Please show how many employees were present on 23/09/2020
+Please show how many employees were present on 24/09/2020
+Please show how many employees were present on 25/09/2020
+Please show how many employees were present on 26/09/2020
+Please show how many employees were present on 27/09/2020
+Please show how many employees were present on 28/09/2020
+Please show how many employees were present on 29/09/2020
+Please show how many employees were present on 30/09/2020
+Please show how many employees were present on 01/10/2020
+Please show how many employees were present on 02/10/2020
+Please show how many employees were present on 03/10/2020
+Please show how many employees were present on 04/10/2020
+Please show how many employees were present on 05/10/2020
+Please show how many employees were present on 06/10/2020
+Please show how many employees were present on 07/10/2020
+Please show how many employees were present on 08/10/2020
+Please show how many employees were present on 09/10/2020
+Please show how many employees were present on 10/10/2020
+Please show how many employees were present on 11/10/2020
+Please show how many employees were present on 12/10/2020
+Please show how many employees were present on 13/10/2020
+Please show how many employees were present on 14/10/2020
+Please show how many employees were present on 15/10/2020
+Please show how many employees were present on 16/10/2020
+Please show how many employees were present on 17/10/2020
+Please show how many employees were present on 18/10/2020
+Please show how many employees were present on 19/10/2020
+Please show how many employees were present on 20/10/2020
+Please show how many employees present on a particular day
+How many headcount department-wise?
+How many employees came late to office on 21st September 2020
+How many employees came late to office on 22nd September 2020
+How many employees came late to office on 23rd September 2020
+How many employees came late to office on 24th September 2020
+How many employees came late to office on 25th September 2020
+How many employees came late to office on 26th September 2020
+How many employees came late to office on 27th September 2020
+How many employees came late to office on 28th September 2020
+How many employees came late to office on 29th September 2020
+How many employees came late to office on 30th September 2020
+How many employees came late to office on 1st October 2020
+How many employees came late to office on 2nd October 2020
+How many employees came late to office on 3rd October 2020
+How many employees came late to office on 4th October 2020
+How many employees came late to office on 5th October 2020
+How many employees came late to office on 6th October 2020
+How many employees came late to office on 7th October 2020
+How many employees came late to office on 8th October 2020
+How many employees came late to office on 9th October 2020
+How many employees came late to office on 10th October 2020
+How many employees came late to office on 11th October 2020
+How many employees came late to office on 12th October 2020
+How many employees came late to office on 13th October 2020
+How many employees came late to office on 14th October 2020
+How many employees came late to office on 15th October 2020
+How many employees came late to office on 16th October 2020
+How many employees came late to office on17th October 2020
+How many employees came late to office on 18th October 2020
+How many employees came late to office on 19th October 2020
+How many employees came late to office on 20th October 2020
+How many employees came late to office on 21st Sep 2020
+How many employees came late to office on 22nd Sep 2020
+How many employees came late to office on 23rd Sep 2020
+How many employees came late to office on 24th Sep 2020
+How many employees came late to office on 25th Sep 2020
+How many employees came late to office on 26th Sep 2020
+How many employees came late to office on 27th Sep 2020
+How many employees came late to office on 28th Sep 2020
+How many employees came late to office on 29th Sep 2020
+How many employees came late to office on 30th Sep 2020
+How many employees came late to office on 1st Oct 2020
+How many employees came late to office on 2nd Oct 2020
+How many employees came late to office on 3rd Oct 2020
+How many employees came late to office on 4th Oct 2020
+How many employees came late to office on 5th Oct 2020
+How many employees came late to office on 6th Oct 2020
+How many employees came late to office on 7th Oct 2020
+How many employees came late to office on 8th Oct 2020
+How many employees came late to office on 9th Oct 2020
+How many employees came late to office on 10th Oct 2020
+How many employees came late to office on 11th Oct 2020
+How many employees came late to office on 12th Oct 2020
+How many employees came late to office on 13th Oct 2020
+How many employees came late to office on 14th Oct 2020
+How many employees came late to office on 15th Oct 2020
+How many employees came late to office on 16th Oct 2020
+How many employees came late to office on  17th Oct 2020
+How many employees came late to office on 18th Oct 2020
+How many employees came late to office on 19th Oct 2020
+How many employees came late to office on 20th Oct 2020
+How many employees came late to office on 21/09/2020
+How many employees came late to office on 22/09/2020
+How many employees came late to office on 23/09/2020
+How many employees came late to office on 24/09/2020
+How many employees came late to office on 25/09/2020
+How many employees came late to office on 26/09/2020
+How many employees came late to office on 27/09/2020
+How many employees came late to office on 28/09/2020
+How many employees came late to office on 29/09/2020
+How many employees came late to office on 30/09/2020
+How many employees came late to office on 01/10/2020
+How many employees came late to office on 02/10/2020
+How many employees came late to office on 03/10/2020
+How many employees came late to office on 04/10/2020
+How many employees came late to office on 05/10/2020
+How many employees came late to office on 06/10/2020
+How many employees came late to office on 07/10/2020
+How many employees came late to office on 08/10/2020
+How many employees came late to office on 09/10/2020
+How many employees came late to office on 10/10/2020
+How many employees came late to office on 11/10/2020
+How many employees came late to office on 12/10/2020
+How many employees came late to office on 13/10/2020
+How many employees came late to office on 14/10/2020
+How many employees came late to office on 15/10/2020
+How many employees came late to office on 16/10/2020
+How many employees came late to office on 17/10/2020
+How many employees came late to office on 18/10/2020
+How many employees came late to office on 19/10/2020
+How many employees came late to office on 20/10/2020
+How many employees came late to office on any particular day/ specific date range
+How many employees came late between 21st September 2020 to 20th Oct 2020
+How many employees came late from 1st October 2020 to 20th Oct 2020
+How many employees came late from 21st September 2020 to 30th September 2020
+please show employees based on work experience
+please show how many employee present on any particular day/date range Department wise?
+Show total overtime hours and amount for each employee for Business Unit 1399
+Show total overtime hours and amount for each employee for Business Unit 1312
+Show total overtime hours and amount for each employee for Business Unit 1330
+Show total overtime hours and amount for each employee for  Head Office
+Show total overtime hours and amount for each employee for Beam Plant 1
+Show total overtime hours and amount for each employee for Blast Furnace Division
+Show total overtime hours and amount for each employee BU wise/ any particular BU
+please let us know employee aged 23
+please let us know employee aged 24
+please let us know employee aged 25
+please let us know employee aged 26
+please let us know employee aged 27
+please let us know employee aged 28
+please let us know employee aged 29
+please let us know employee aged 30
+please let us know employee aged 31
+please let us know employee aged 32
+please let us know employee aged 33
+please let us know employee aged 34
+please let us know employee aged 35
+please let us know employee aged 36
+please let us know employee aged 37
+please let us know employee aged 38
+please let us know employee aged 39
+please let us know employee aged 40
+please let us know employee aged 41
+please let us know employee aged 42
+please let us know employee aged 43
+please let us know employee aged 44
+please let us know employee aged 45
+please let us know employee aged 46
+please let us know employee aged 47
+please let us know employee aged 48
+please let us know employee aged 49
+please let us know employee aged 50
+please let us know employee aged 51
+please let us know employee aged 52
+please let us know employee aged 53
+please let us know employee aged 54
+please let us know employee aged 55
+please let us know employee aged 56
+Please let us know employee aged above 20 and below 30
+Please let us know employee aged above 20 and below 40
+Please let us know employee aged above 20 and below 50
+Please let us know employee aged above 20 and below 60
+Please let us know employee aged above 30 and below 40
+Please let us know employee aged above 30 and below 50
+Please let us know employee aged above 30 and below 60
+Please let us know employee aged above 40 and below 50
+Please let us know employee aged above 40 and below 60
+Please let us know employee aged above 50 and below 50
+Please let us know employee aged above 50 and below 60
+Please let us know employee aged > 20 and < 30
+Please let us know employee aged > 20 and < 40
+Please let us know employee aged > 20 and < 50
+Please let us know employee aged > 20 and < 60
+Please let us know employee aged > 30 and < 40
+Please let us know employee aged > 30 and < 50
+Please let us know employee aged > 30 and < 60
+Please let us know employee aged > 40 and < 50
+Please let us know employee aged > 40 and < 60
+Please let us know employee aged > 50 and < 50
+Please let us know employee aged > 50 and < 60
+please let us know employee aged > 40 and < 50 / any specified age range

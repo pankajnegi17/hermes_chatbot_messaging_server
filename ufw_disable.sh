@@ -1,0 +1,2 @@
+ufw disable
+ufw status
